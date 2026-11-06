@@ -1,0 +1,1392 @@
+# Wörterbuch
+
+- **der Abessinier, die Abessinier** — абиссинец *(Kap. 6)*
+- **die Abfüllung** — разлив *(Kap. 10)*
+- **abgetreten** — стоптанный *(Kap. 11)*
+- **ablegen** — отчаливать, отправляться *(Kap. 3)*
+- **ablehnen** — отклонять, отвергать *(Kap. 3)*
+- **abrechnen mit + Dat.** — сводить счёты с *(Kap. 3)*
+- **die Abschaffung** — отмена *(Kap. 11)*
+- **abschließen (schloss ab, hat abgeschlossen)** — запирать *(Kap. 2)*
+- **abseits** — поодаль, в стороне *(Kap. 3)*
+- **der Absturz, die Abstürze** — падение, крушение *(Kap. 8)*
+- **das Abwasserrohr, die Abwasserrohre** — фановая (канализационная) труба *(Kap. 10)*
+- **abwenden** — отводить *(Kap. 7)*
+- **abwinken** — махнуть рукой *(Kap. 5)*
+- **der Adel** — знатность, дворянство *(Kap. 6)*
+- **der Aeronaut, die Aeronauten** — аэронавт *(Kap. 8)*
+- **ahnen** — предчувствовать *(Kap. 3)*
+- **die Ahnenforschung** — генеалогия *(Kap. 6)*
+- **die Akazie, die Akazien** — акация *(Kap. 8)*
+- **die Aktentasche, die Aktentaschen** — портфель *(Kap. 5)*
+- **der Alarm** — тревога *(Kap. 8)*
+- **der Albtraum, die Albträume** — кошмар *(Kap. 5)*
+- **alkalisch** — щелочной *(Kap. 10)*
+- **allmählich** — постепенно *(Kap. 8)*
+- **der Alltag** — будни *(Kap. 2)*
+- **das Amt, die Ämter** — учреждение, ведомство *(Kap. 2)*
+- **das Analphabetentum** — неграмотность *(Kap. 4)*
+- **die Analyse, die Analysen** — анализ *(Kap. 10)*
+- **anfassen** — трогать *(Kap. 6)*
+- **die Anfrage, die Anfragen** — запрос *(Kap. 1)*
+- **angeblich** — мнимый *(Kap. 7)*
+- **angelaufen kommen** — прибежать *(Kap. 3)*
+- **angenehm** — приятный *(Kap. 5)*
+- **angesehen** — уважаемый *(Kap. 1)*
+- **die Angina** — ангина *(Kap. 10)*
+- **angreifen (griff an, hat angegriffen)** — нападать, атаковать *(Kap. 1)*
+- **Angst und Schrecken einjagen** — наводить ужас *(Kap. 9)*
+- **anhalten (hielt an, hat angehalten)** — останавливать *(Kap. 2)*
+- **anpreisen (pries an, hat angepriesen)** — зазывать, расхваливать *(Kap. 11)*
+- **anstreichen (strich an, hat angestrichen)** — красить *(Kap. 5)*
+- **der Anzug, die Anzüge** — костюм *(Kap. 1)*
+- **anzünden** — поджигать *(Kap. 4)*
+- **die Arche, die Archen** — ковчег *(Kap. 3)*
+- **das Archiv, die Archive** — архив *(Kap. 11)*
+- **das Armband, die Armbänder** — браслет *(Kap. 3)*
+- **die Armee, die Armeen** — армия *(Kap. 1)*
+- **die Artillerie** — артиллерия *(Kap. 3)*
+- **der Ast, die Äste** — ветвь, сук *(Kap. 6)*
+- **auf orientalische Art** — на восточный манер *(Kap. 9)*
+- **aufbrechen (brach auf, hat aufgebrochen)** — взламывать *(Kap. 2)*
+- **aufdecken** — выявлять, вскрывать *(Kap. 9)*
+- **aufessen (aß auf, hat aufgegessen)** — съесть *(Kap. 1)*
+- **auffahren (fuhr auf, ist aufgefahren)** — встрепенуться, вскинуться *(Kap. 6)*
+- **auffüllen** — пополнять *(Kap. 7)*
+- **aufgeregt** — взволнованный, возбуждённый *(Kap. 3)*
+- **aufgeschmissen sein** — растеряться, быть в безвыходном положении *(Kap. 9)*
+- **aufklären** — выяснять, разъяснять *(Kap. 8)*
+- **sich aufklären** — разъясняться, выясняться *(Kap. 11)*
+- **aufkreischen** — взвизгивать *(Kap. 10)*
+- **auflisten** — описывать (имущество) *(Kap. 7)*
+- **aufpassen** — смотреть, быть внимательным *(Kap. 6)*
+- **die Aufregung** — волнение *(Kap. 1)*
+- **aufschlagen (schlug auf, hat aufgeschlagen)** — разбивать (палатку) *(Kap. 9)*
+- **die Aufschrift, die Aufschriften** — надпись *(Kap. 8)*
+- **aufstöhnen** — ахнуть *(Kap. 10)*
+- **der Auftrag, die Aufträge** — заказ *(Kap. 4)*
+- **auftreiben (trieb auf, hat aufgetrieben)** — достать, раздобыть *(Kap. 2)*
+- **aufwarten mit + Dat.** — потчевать, угощать *(Kap. 9)*
+- **aufwirbeln** — взметнуться, взвихриться *(Kap. 5)*
+- **aufzählen** — перечислять *(Kap. 10)*
+- **die Augen zukneifen** — зажмуриться *(Kap. 8)*
+- **aus Höflichkeit** — из вежливости *(Kap. 2)*
+- **aus Versehen** — по ошибке *(Kap. 1)*
+- **ausbeuten** — разрабатывать, эксплуатировать *(Kap. 1)*
+- **die Ausbeutung** — эксплуатация *(Kap. 10)*
+- **ausbreiten** — раскидывать, расстилать *(Kap. 10)*
+- **sich ausdenken (dachte aus, hat ausgedacht)** — выдумать *(Kap. 3)*
+- **auserwählt** — отборный, избранный *(Kap. 3)*
+- **der Ausgang, die Ausgänge** — выход *(Kap. 3)*
+- **ausgerechnet** — как раз, именно *(Kap. 5)*
+- **ausgezeichnet** — отличный *(Kap. 8)*
+- **ausgiebig** — подолгу, вволю *(Kap. 9)*
+- **die Auskunft, die Auskünfte** — сведения, разъяснение *(Kap. 9)*
+- **das Ausland** — заграница *(Kap. 1)*
+- **die Ausmerzung** — изживание, искоренение *(Kap. 11)*
+- **ausnehmen (nahm aus, hat ausgenommen)** — потрошить *(Kap. 7)*
+- **das Ausnüchterungszimmer, die Ausnüchterungszimmer** — вытрезвитель *(Kap. 2)*
+- **ausrauben** — грабить *(Kap. 4)*
+- **der Ausruf, die Ausrufe** — возглас *(Kap. 10)*
+- **ausräumen** — очищать, обчищать *(Kap. 2)*
+- **die Auswahl** — выбор *(Kap. 5)*
+- **ausziehen (zog aus, ist ausgezogen)** — выезжать, съезжать *(Kap. 2)*
+- **der Autor, die Autoren** — автор *(Kap. 4)*
+- **der Autoreifen, die Autoreifen** — автомобильная шина *(Kap. 1)*
+- **außer sich vor Freude sein** — быть вне себя от радости *(Kap. 2)*
+- **außergewöhnlich** — незаурядный *(Kap. 9)*
+- **die Axt, die Äxte** — топор *(Kap. 2)*
+- **der Balken, die Balken** — бревно, балка *(Kap. 7)*
+- **der Ballast** — балласт *(Kap. 8)*
+- **der Ballon, die Ballons** — воздушный шар *(Kap. 8)*
+- **die Barriere, die Barrieren** — барьер *(Kap. 9)*
+- **die Bassnote, die Bassnoten** — басовая нота *(Kap. 8)*
+- **der Bastschuh, die Bastschuhe** — лапоть *(Kap. 6)*
+- **der Bau, die Bauten** — стройка, постройка *(Kap. 2)*
+- **bauchig** — пузатый *(Kap. 6)*
+- **die Bauernsuppe** — суп-пейзан, крестьянский суп *(Kap. 6)*
+- **der Baukran, die Baukräne** — подъёмный кран *(Kap. 2)*
+- **das Baumaterial, die Baumaterialien** — строительный материал *(Kap. 2)*
+- **der Bauplan, die Baupläne** — чертёж *(Kap. 3)*
+- **die Baustelle, die Baustellen** — стройка *(Kap. 2)*
+- **der Beamte, die Beamten** — чиновник *(Kap. 1)*
+- **sich bedanken** — благодарить *(Kap. 3)*
+- **bedauern** — жалеть *(Kap. 9)*
+- **bedauernd** — с сожалением *(Kap. 8)*
+- **bedrängen** — наседать, напирать *(Kap. 7)*
+- **sich beeilen** — спешить, торопиться *(Kap. 3)*
+- **beeindruckend** — впечатляющий, поразительный *(Kap. 4)*
+- **der Befehl, die Befehle** — приказание, приказ *(Kap. 9)*
+- **befreundet** — дружественный *(Kap. 4)*
+- **die Beförderung, die Beförderungen** — повышение, выдвижение (по службе) *(Kap. 4)*
+- **begeistert** — в восторге *(Kap. 1)*
+- **begraben (begrub, hat begraben)** — хоронить, закапывать *(Kap. 4)*
+- **die Begrüßung** — приветствие *(Kap. 8)*
+- **die Begrüßungsrede, die Begrüßungsreden** — приветственная речь *(Kap. 11)*
+- **behaart** — волосатый *(Kap. 8)*
+- **der Behälter, die Behälter** — резервуар, ёмкость *(Kap. 7)*
+- **die Behörde, die Behörden** — власти, ведомство *(Kap. 10)*
+- **bei Gott** — ей-богу *(Kap. 7)*
+- **die Beine übereinanderschlagen** — закинуть ногу на ногу *(Kap. 7)*
+- **beiseite** — в сторону *(Kap. 10)*
+- **bekümmert** — огорчённый, опечаленный *(Kap. 6)*
+- **beleidigt** — обиженный *(Kap. 2)*
+- **beleuchten** — освещать *(Kap. 5)*
+- **belieben** — изволить *(Kap. 9)*
+- **bellen** — рявкнуть, лаять *(Kap. 5)*
+- **bemerken** — замечать *(Kap. 1)*
+- **benennen (benannte, hat benannt)** — называть, давать название *(Kap. 4)*
+- **bereitwillig** — с готовностью *(Kap. 5)*
+- **beruhigend** — успокоительный *(Kap. 1)*
+- **berühren** — касаться, прикасаться *(Kap. 10)*
+- **bescheiden** — скромный *(Kap. 5)*
+- **die Bescheinigung, die Bescheinigungen** — удостоверение, справка *(Kap. 6)*
+- **beschimpfen** — ругать, бранить *(Kap. 7)*
+- **beschlagen mit + Dat.** — обитый, обшитый *(Kap. 2)*
+- **beschließen (beschloss, hat beschlossen)** — решать, принимать решение *(Kap. 2)*
+- **beschreiben (beschrieb, hat beschrieben)** — описывать *(Kap. 4)*
+- **sich beschweren** — жаловаться *(Kap. 7)*
+- **beschäftigt** — занятой *(Kap. 6)*
+- **besingen (besang, hat besungen)** — воспевать *(Kap. 10)*
+- **der Besitz** — имущество *(Kap. 7)*
+- **besorgt** — озабоченно *(Kap. 7)*
+- **bestens** — отлично *(Kap. 9)*
+- **besticken** — расшивать, вышивать *(Kap. 6)*
+- **bestürzt** — расстроенный, огорчённый *(Kap. 8)*
+- **der Besuch, die Besuche** — визит, посещение *(Kap. 7)*
+- **beteiligt sein** — быть в доле *(Kap. 7)*
+- **betrunken** — пьяный *(Kap. 4)*
+- **beträchtlich** — изрядный, значительный *(Kap. 10)*
+- **bettlägerig** — прикованный к постели *(Kap. 10)*
+- **sich beugen** — высовываться, наклоняться *(Kap. 5)*
+- **bevorstehen (stand bevor, hat bevorgestanden)** — предстоять *(Kap. 7)*
+- **sich bewegen** — двигаться *(Kap. 6)*
+- **beweisen (bewies, hat bewiesen)** — доказывать *(Kap. 3)*
+- **bezaubern** — очаровывать *(Kap. 5)*
+- **beziehen mit + Dat. (bezog, hat bezogen)** — обтягивать, обивать *(Kap. 3)*
+- **die Bibel, die Bibeln** — Библия *(Kap. 3)*
+- **der Biberkragen, die Biberkragen** — бобровый воротник *(Kap. 6)*
+- **sich biegen (bog, hat gebogen)** — сгибаться, гнуться *(Kap. 6)*
+- **der Bierkrug, die Bierkrüge** — пивная кружка *(Kap. 8)*
+- **die Bierstube, die Bierstuben** — пивная *(Kap. 2)*
+- **bis ans Grab** — по гроб жизни *(Kap. 1)*
+- **bitte sehr** — пожалуйста *(Kap. 5)*
+- **blass** — бледный *(Kap. 5)*
+- **der blaue Fleck, die blauen Flecken** — синяк *(Kap. 1)*
+- **der Blick, die Blicke** — взгляд *(Kap. 5)*
+- **der Blitz, die Blitze** — молния *(Kap. 3)*
+- **die Blumenwiese, die Blumenwiesen** — цветущий луг *(Kap. 2)*
+- **blöken** — блеять *(Kap. 11)*
+- **bohren** — бурить *(Kap. 9)*
+- **die Bohrung, die Bohrungen** — бурение *(Kap. 9)*
+- **der Bolid, die Boliden** — болид *(Kap. 9)*
+- **der Bolschewik, die Bolschewiken** — большевик *(Kap. 3)*
+- **die Botschaft, die Botschaften** — посольство *(Kap. 1)*
+- **der Botschafter, die Botschafter** — посол *(Kap. 1)*
+- **das Boudoir, die Boudoirs** — будуар *(Kap. 2)*
+- **der Boulevard, die Boulevards** — бульвар *(Kap. 4)*
+- **brandmarken** — заклеймить *(Kap. 5)*
+- **bremsen** — тормозить *(Kap. 1)*
+- **brennen vor + Dat. (brannte, hat gebrannt)** — гореть от *(Kap. 2)*
+- **das Brennholz** — дрова *(Kap. 2)*
+- **der Brennstoff, die Brennstoffe** — топливо *(Kap. 7)*
+- **der Brennziegel, die Brennziegel** — кизяк, «кирпич» из навоза *(Kap. 7)*
+- **die Brezel, die Brezeln** — крендель *(Kap. 6)*
+- **die Brieftasche, die Brieftaschen** — бумажник *(Kap. 11)*
+- **der Brillant, die Brillanten** — бриллиант *(Kap. 6)*
+- **brodeln** — кипеть, бурлить *(Kap. 10)*
+- **der Brokat** — глазет, парча *(Kap. 3)*
+- **der Brunnen, die Brunnen** — колодец *(Kap. 7)*
+- **die Brust, die Brüste** — грудь *(Kap. 3)*
+- **die Bruthenne, die Bruthennen** — наседка *(Kap. 10)*
+- **brüchig** — надтреснутый *(Kap. 7)*
+- **brüllen** — вопить, орать *(Kap. 3)*
+- **das Buntmetall, die Buntmetalle** — цветной металл *(Kap. 1)*
+- **byzantinisch** — византийский *(Kap. 4)*
+- **das Bächlein, die Bächlein** — ручеёк *(Kap. 10)*
+- **böse** — злобно *(Kap. 2)*
+- **sich bücken** — нагибаться *(Kap. 7)*
+- **chartern** — зафрахтовать *(Kap. 8)*
+- **der Chauffeur, die Chauffeure** — шофёр *(Kap. 1)*
+- **der Chefaeronaut** — главный аэронавт *(Kap. 8)*
+- **der Chefregisseur, die Chefregisseure** — главный режиссёр, главреж *(Kap. 5)*
+- **das Chromleder** — хром (кожа) *(Kap. 11)*
+- **die Damenhandtasche, die Damenhandtaschen** — дамская сумочка *(Kap. 11)*
+- **der Dampf** — пар *(Kap. 6)*
+- **dampfen** — дымиться, парить *(Kap. 6)*
+- **defekt** — дефективный *(Kap. 5)*
+- **dehnen** — растягивать *(Kap. 11)*
+- **die Deklamation** — декламация *(Kap. 1)*
+- **die Delegation, die Delegationen** — делегация *(Kap. 7)*
+- **den Kopf in den Nacken legen** — задрать голову *(Kap. 8)*
+- **den Mut verlieren** — приуныть, пасть духом *(Kap. 11)*
+- **der/die Angestellte, die Angestellten** — служащий *(Kap. 1)*
+- **der/die Anwesende, die Anwesenden** — присутствующий *(Kap. 7)*
+- **der/die Dicke, die Dicken** — толстяк *(Kap. 2)*
+- **der/die Fremde, die Fremden** — незнакомец, чужой *(Kap. 2)*
+- **der/die Parteilose, die Parteilosen** — беспартийный *(Kap. 5)*
+- **der/die Unglückliche, die Unglücklichen** — несчастный *(Kap. 5)*
+- **der/die Verrückte, die Verrückten** — сумасшедший *(Kap. 10)*
+- **der/die Vorgesetzte, die Vorgesetzten** — начальник *(Kap. 8)*
+- **der/die Vorsitzende, die Vorsitzenden** — председатель *(Kap. 1)*
+- **das Detail, die Details** — деталь *(Kap. 2)*
+- **der Diagonalstoff** — диагональ (ткань) *(Kap. 3)*
+- **der Diakon, die Diakone** — дьякон *(Kap. 1)*
+- **der Diamant, die Diamanten** — алмаз, бриллиант *(Kap. 2)*
+- **dick** — тучный, толстый *(Kap. 6)*
+- **der Dieb, die Diebe** — вор *(Kap. 2)*
+- **diebisch** — вороватый *(Kap. 7)*
+- **die Dienstvorschrift, die Dienstvorschriften** — устав *(Kap. 8)*
+- **direkt** — прямой, прямолинейный *(Kap. 1)*
+- **doch noch** — всё-таки *(Kap. 1)*
+- **donnern** — греметь, грохотать *(Kap. 3)*
+- **drauflegen** — прибавлять, добавлять *(Kap. 6)*
+- **sich drehen** — поворачиваться *(Kap. 1)*
+- **drehen** — снимать (фильм) *(Kap. 5)*
+- **das Drehkreuz, die Drehkreuze** — турникет *(Kap. 10)*
+- **der Dreizack, die Dreizacke** — трезубец *(Kap. 6)*
+- **drohend** — грозно *(Kap. 3)*
+- **die Droschke, die Droschken** — извозчик, пролётка *(Kap. 1)*
+- **drängen** — протискиваться, напирать *(Kap. 2)*
+- **sich drängen** — протиснуться *(Kap. 7)*
+- **dröhnen** — грохотать *(Kap. 7)*
+- **dröhnend** — зычный *(Kap. 9)*
+- **duften nach + Dat.** — пахнуть (приятно) *(Kap. 2)*
+- **dumm** — глупый *(Kap. 3)*
+- **dumpf** — глухо *(Kap. 3)*
+- **durchdringend** — пронзительно *(Kap. 8)*
+- **das Durcheinander** — суматоха, неразбериха *(Kap. 7)*
+- **durcheinander sein** — быть в расстройстве *(Kap. 5)*
+- **durchgehen (ging durch, ist durchgegangen)** — проходить (дальше) *(Kap. 3)*
+- **die Durchlaucht** — сиятельство *(Kap. 5)*
+- **durchlöchern** — продырявливать *(Kap. 8)*
+- **das Dämchen, die Dämchen** — дамочка *(Kap. 8)*
+- **die Dämmerung** — сумерки *(Kap. 7)*
+- **echt** — настоящий, подлинный *(Kap. 6)*
+- **die Ecke, die Ecken** — угол *(Kap. 5)*
+- **egal** — всё равно *(Kap. 8)*
+- **der Ehering, die Eheringe** — обручальное кольцо *(Kap. 7)*
+- **ehren** — чествовать, чтить *(Kap. 2)*
+- **der Ehrenfragebogen, die Ehrenfragebögen** — почётная анкета *(Kap. 2)*
+- **der Eid, die Eide** — клятва *(Kap. 10)*
+- **der Eifer** — рвение, жар *(Kap. 6)*
+- **eilen** — спешить *(Kap. 7)*
+- **sich einbilden** — воображать, выдумывать *(Kap. 7)*
+- **eindringen in + Akk. (drang ein, ist eingedrungen)** — вторгаться, врываться *(Kap. 2)*
+- **einen Kredit aufnehmen** — сделать заём *(Kap. 1)*
+- **der Eingang, die Eingänge** — вход *(Kap. 3)*
+- **eingravieren** — выгравировать *(Kap. 7)*
+- **einholen** — настигать, догонять *(Kap. 8)*
+- **sich einigen** — сойтись, договориться *(Kap. 6)*
+- **einladen (lud ein, hat eingeladen)** — угощать, приглашать *(Kap. 4)*
+- **einmütig** — единодушный *(Kap. 4)*
+- **die Einnahme, die Einnahmen** — выручка, доход *(Kap. 10)*
+- **einsam** — глухой, уединённый *(Kap. 2)*
+- **einschlagen (schlug ein, hat eingeschlagen)** — выбивать (клеймо) *(Kap. 7)*
+- **das Einsteigen** — посадка *(Kap. 3)*
+- **einstimmig** — единогласный *(Kap. 4)*
+- **einstürzen** — рухнуть *(Kap. 10)*
+- **eintauchen** — окунаться *(Kap. 10)*
+- **der Eintritt** — вход *(Kap. 3)*
+- **eintönig** — однообразно *(Kap. 7)*
+- **einverstanden sein mit + Dat.** — соглашаться с *(Kap. 5)*
+- **einwerfen (warf ein, hat eingeworfen)** — разбить (камнями) *(Kap. 2)*
+- **das Einzelbad, die Einzelbäder** — индивидуальная баня *(Kap. 4)*
+- **der Einzelhandwerker, die Einzelhandwerker** — кустарь-одиночка *(Kap. 4)*
+- **die Einzelheit, die Einzelheiten** — подробность *(Kap. 1)*
+- **einziehen (zog ein, ist eingezogen)** — въезжать, вселяться *(Kap. 2)*
+- **einzig** — единственный *(Kap. 1)*
+- **das Eis** — лёд *(Kap. 6)*
+- **die Eisblume, die Eisblumen** — морозный узор *(Kap. 5)*
+- **der Eisenofen, die Eisenöfen** — буржуйка, железная печка *(Kap. 2)*
+- **der eiserne Griff** — мёртвая хватка *(Kap. 7)*
+- **das Eisloch, die Eislöcher** — прорубь *(Kap. 6)*
+- **die Eisschicht, die Eisschichten** — ледяная плёнка *(Kap. 10)*
+- **die Eiterbeule, die Eiterbeulen** — гнойник *(Kap. 9)*
+- **elegant** — элегантный *(Kap. 8)*
+- **der Elektriker, die Elektriker** — монтёр *(Kap. 2)*
+- **der Elektromotor, die Elektromotoren** — электромотор *(Kap. 2)*
+- **empfindlich** — впечатлительный, чувствительный *(Kap. 3)*
+- **empört** — возмущённо *(Kap. 3)*
+- **endgültig** — окончательный *(Kap. 1)*
+- **energisch** — энергично *(Kap. 3)*
+- **eng** — стеснённый, тесный *(Kap. 5)*
+- **entführen** — умчать, увозить *(Kap. 9)*
+- **entkommen (entkam, ist entkommen)** — уйти, ускользнуть *(Kap. 8)*
+- **entlocken + Dat.** — исторгать *(Kap. 8)*
+- **entscheiden (entschied, hat entschieden)** — решать *(Kap. 3)*
+- **das Entsetzen** — ужас *(Kap. 7)*
+- **entsetzt** — в ужасе *(Kap. 7)*
+- **enttäuschen** — разочаровывать *(Kap. 4)*
+- **das Erdbeben, die Erdbeben** — землетрясение *(Kap. 4)*
+- **erdrücken** — задавить, раздавить *(Kap. 7)*
+- **das Ereignis, die Ereignisse** — событие *(Kap. 7)*
+- **erfahren** — опытный, умудрённый опытом *(Kap. 1)*
+- **der Erfinder, die Erfinder** — выдумщик, изобретатель *(Kap. 3)*
+- **sich ergeben (ergab, hat ergeben)** — сдаваться *(Kap. 8)*
+- **die Ergebenheit** — преданность *(Kap. 9)*
+- **erklären** — объяснять *(Kap. 3)*
+- **Erlauben Sie mal!** — позвольте! *(Kap. 3)*
+- **erlesen** — избранный, изысканный *(Kap. 9)*
+- **der Erlöser** — Спаситель, Спас *(Kap. 4)*
+- **ermuntern** — подбадривать *(Kap. 10)*
+- **ernsthaft** — всерьёз *(Kap. 6)*
+- **sich ernähren von + Dat.** — питаться *(Kap. 7)*
+- **erobern** — завоёвывать *(Kap. 8)*
+- **die Eroberungspolitik** — захватническая политика *(Kap. 6)*
+- **die Errungenschaft, die Errungenschaften** — достижение *(Kap. 7)*
+- **erscheinen (erschien, ist erschienen)** — появляться *(Kap. 2)*
+- **erschrecken (erschrak, ist erschrocken)** — испугаться *(Kap. 9)*
+- **erschrocken** — испуганно *(Kap. 3)*
+- **erschöpft** — изнурённый, измученный *(Kap. 5)*
+- **erschüttern** — сотрясать, колебать *(Kap. 8)*
+- **erstarren (erstarrte, ist erstarrt)** — застыть, замереть *(Kap. 6)*
+- **erstarren lassen** — леденить, сковывать *(Kap. 11)*
+- **erstaunlich** — удивительный *(Kap. 4)*
+- **erstaunt** — удивлённый *(Kap. 1)*
+- **ertrinken (ertrank, ist ertrunken)** — утонуть *(Kap. 3)*
+- **erwarten** — ожидать *(Kap. 5)*
+- **erwischen** — застать, поймать *(Kap. 7)*
+- **sich etwas erlauben** — позволять себе *(Kap. 5)*
+- **ewig** — вечный, неугасаемый *(Kap. 4)*
+- **die Exekutivgewalt** — исполнительная власть *(Kap. 9)*
+- **das Exekutivkomitee, die Exekutivkomitees** — исполком *(Kap. 5)*
+- **die Expedition, die Expeditionen** — экспедиция *(Kap. 9)*
+- **der Extraprofit, die Extraprofite** — сверхприбыль *(Kap. 6)*
+- **die Fahne, die Fahnen** — флажок, флаг *(Kap. 1)*
+- **der Fall, die Fälle** — случай *(Kap. 5)*
+- **fangen (fing, hat gefangen)** — ловить *(Kap. 3)*
+- **die Fantasie, die Fantasien** — фантазия *(Kap. 7)*
+- **farblos** — бесцветный *(Kap. 5)*
+- **das Fass, die Fässer** — бочка *(Kap. 1)*
+- **die Fassung** — самообладание *(Kap. 7)*
+- **fassungslos** — ошеломлённый *(Kap. 10)*
+- **fast nichts** — почти ничего *(Kap. 6)*
+- **das Federvieh** — домашняя птица *(Kap. 2)*
+- **feierlich** — торжественно *(Kap. 6)*
+- **die Feierlichkeit, die Feierlichkeiten** — торжество *(Kap. 11)*
+- **feiern** — праздновать, пировать *(Kap. 1)*
+- **der Feiertag, die Feiertage** — праздник *(Kap. 2)*
+- **feilschen** — торговаться *(Kap. 6)*
+- **feilschen um + Akk.** — торговаться за, приторговывать *(Kap. 11)*
+- **der Feind, die Feinde** — враг *(Kap. 8)*
+- **der Feingehalt** — проба (металла) *(Kap. 7)*
+- **der Fellstiefel, die Fellstiefel** — пимы, меховые сапоги *(Kap. 9)*
+- **der Fensterrahmen, die Fensterrahmen** — оконная рама *(Kap. 7)*
+- **die Fensterscheibe, die Fensterscheiben** — оконное стекло *(Kap. 2)*
+- **fesseln** — связывать *(Kap. 5)*
+- **fest** — твёрдо *(Kap. 1)*
+- **festbinden (band fest, hat festgebunden)** — привязывать *(Kap. 3)*
+- **das Festmahl, die Festmahle** — пир *(Kap. 6)*
+- **feststellen** — обнаружить, установить *(Kap. 10)*
+- **die Feststellung, die Feststellungen** — выявление, установление *(Kap. 4)*
+- **die Fettsucht** — ожирение *(Kap. 10)*
+- **die Feuchtigkeit** — сырость *(Kap. 2)*
+- **die Feuerbestattung** — кремация, «огненное погребение» *(Kap. 4)*
+- **der Feuerwachturm, die Feuerwachtürme** — пожарная каланча *(Kap. 4)*
+- **die Feuerwehr, die Feuerwehren** — пожарная команда *(Kap. 4)*
+- **der Feuerwehrchef, die Feuerwehrchefs** — брандмайор, начальник пожарной команды *(Kap. 4)*
+- **das Feuerzeug, die Feuerzeuge** — зажигалка *(Kap. 2)*
+- **fiebrig** — лихорадочный *(Kap. 10)*
+- **der Filmregisseur, die Filmregisseure** — кинорежиссёр *(Kap. 5)*
+- **der Filzstiefel, die Filzstiefel** — фетровые сапоги, валенки *(Kap. 6)*
+- **die Finanzkrise, die Finanzkrisen** — финансовый кризис *(Kap. 1)*
+- **finster** — мрачный, омрачённый *(Kap. 5)*
+- **flach** — мелкий, мелководный *(Kap. 4)*
+- **der Flanell** — фланель *(Kap. 3)*
+- **flanieren** — прогуливаться, фланировать *(Kap. 9)*
+- **flattern** — трепетать, развеваться *(Kap. 1)*
+- **der Flechtzaun, die Flechtzäune** — плетень *(Kap. 7)*
+- **der Fleck, die Flecken** — пятно *(Kap. 4)*
+- **der Fleischstand, die Fleischstände** — мясной ряд *(Kap. 11)*
+- **der Fleiß** — усердие, прилежание *(Kap. 1)*
+- **fleißig** — усердно, прилежно *(Kap. 4)*
+- **fliederfarben** — сиреневый *(Kap. 3)*
+- **der Flieger, die Flieger** — летун, лётчик *(Kap. 8)*
+- **fliehen (floh, ist geflohen)** — бежать, удирать *(Kap. 1)*
+- **flink** — расторопный, проворный *(Kap. 3)*
+- **die Flucht** — бегство *(Kap. 7)*
+- **flüchtig** — беглый *(Kap. 8)*
+- **die Forderung, die Forderungen** — претензия, требование *(Kap. 10)*
+- **forsch** — молодецки, бойко *(Kap. 11)*
+- **die Fortsetzung, die Fortsetzungen** — продолжение *(Kap. 4)*
+- **der Fragebogensaal** — «анкетный зал» *(Kap. 2)*
+- **die Frauensperson, die Frauenspersonen** — баба *(Kap. 2)*
+- **freilich** — конечно, как же *(Kap. 9)*
+- **freudig** — радостно *(Kap. 9)*
+- **der Frost, die Fröste** — мороз *(Kap. 1)*
+- **frostig** — морозный *(Kap. 8)*
+- **die Frucht, die Früchte** — плод *(Kap. 11)*
+- **fröhlich** — радостно, весело *(Kap. 1)*
+- **fuchteln mit + Dat.** — размахивать *(Kap. 8)*
+- **funkeln** — сверкать, блистать *(Kap. 6)*
+- **der Funktionär, die Funktionäre** — работник, функционер *(Kap. 3)*
+- **furchtbar** — ужасный *(Kap. 5)*
+- **der Furunkel, die Furunkel** — чирей, фурункул *(Kap. 10)*
+- **der Fußantrieb** — ножной привод *(Kap. 3)*
+- **die Fähre, die Fähren** — паром *(Kap. 4)*
+- **die Fährte, die Fährten** — след *(Kap. 9)*
+- **füllen** — начинять, наполнять *(Kap. 7)*
+- **fürchterlich** — страшный, ужасный *(Kap. 10)*
+- **der Fürst, die Fürsten** — князь *(Kap. 4)*
+- **die Gabel, die Gabeln** — вилка *(Kap. 6)*
+- **gackern** — кудахтать *(Kap. 7)*
+- **der Gaffer, die Gaffer** — зевака *(Kap. 1)*
+- **ganz zufällig** — по чистой случайности *(Kap. 1)*
+- **die Gasse, die Gassen** — переулок *(Kap. 4)*
+- **das Gedichtzitat, die Gedichtzitate** — стихотворная цитата *(Kap. 10)*
+- **das Gedächtnis** — память *(Kap. 11)*
+- **gefangen nehmen (nahm gefangen, hat gefangen genommen)** — брать в плен *(Kap. 8)*
+- **das Geflügel** — домашняя птица *(Kap. 7)*
+- **gefährlich** — опасный *(Kap. 5)*
+- **das Gefährt, die Gefährte** — экипаж, повозка *(Kap. 9)*
+- **gefälscht** — фальшивый, поддельный *(Kap. 7)*
+- **das Gefängnisstockwerk** — «этаж заключения» *(Kap. 2)*
+- **der Gegenstand, die Gegenstände** — предмет *(Kap. 7)*
+- **das Gehalt, die Gehälter** — жалованье, зарплата *(Kap. 1)*
+- **das Geheimnis, die Geheimnisse** — тайна *(Kap. 4)*
+- **das Geheul** — вопль, вой *(Kap. 8)*
+- **der Gehilfe, die Gehilfen** — помощник *(Kap. 3)*
+- **das Geishahemd, die Geishahemden** — рубашка-гейша *(Kap. 6)*
+- **das Geldsystem** — денежное обращение *(Kap. 3)*
+- **gelehrt** — учёный *(Kap. 7)*
+- **gelähmt** — парализованный, оцепеневший *(Kap. 7)*
+- **gemessenen Schrittes** — степенно, размеренным шагом *(Kap. 9)*
+- **gemischt** — смешанный *(Kap. 6)*
+- **das Gemurmel** — бормотание *(Kap. 7)*
+- **gemäßigt** — умеренный *(Kap. 9)*
+- **der Gemüsegarten, die Gemüsegärten** — огород *(Kap. 7)*
+- **gemütlich** — привольно, уютно *(Kap. 6)*
+- **genau** — точь-в-точь *(Kap. 7)*
+- **der General, die Generäle** — генерал *(Kap. 1)*
+- **der Generaldirektor, die Generaldirektoren** — главный директор *(Kap. 10)*
+- **der Generator, die Generatoren** — динамо-машина, генератор *(Kap. 2)*
+- **genießen (genoss, hat genossen)** — наслаждаться *(Kap. 9)*
+- **die Genossenschaft, die Genossenschaften** — артель *(Kap. 4)*
+- **der Gentleman, die Gentlemen** — джентльмен *(Kap. 1)*
+- **der Geograf, die Geografen** — географ *(Kap. 4)*
+- **gepanzert** — бронированный *(Kap. 11)*
+- **das Gepäck** — багаж *(Kap. 3)*
+- **der Gepäckträger, die Gepäckträger** — носильщик *(Kap. 2)*
+- **gequält** — в тоске, мучительно *(Kap. 10)*
+- **gerade** — прямой *(Kap. 4)*
+- **das Gericht, die Gerichte** — суд *(Kap. 1)*
+- **das Gerippe, die Gerippe** — остов, скелет *(Kap. 2)*
+- **geruhen** — соизволить *(Kap. 7)*
+- **das Gerücht, die Gerüchte** — слух *(Kap. 2)*
+- **gerührt** — растроганный, умилённый *(Kap. 2)*
+- **das Geschenk, die Geschenke** — дар, подарок *(Kap. 6)*
+- **geschickt** — ловкий, умелый *(Kap. 1)*
+- **geschlossen** — закрытый *(Kap. 4)*
+- **das Geschwür, die Geschwüre** — нарыв *(Kap. 9)*
+- **geschäftlich** — по делам, по торговым делам *(Kap. 1)*
+- **der Geschäftsmann, die Geschäftsleute** — коммерсант *(Kap. 1)*
+- **gesegnet** — благословенный *(Kap. 9)*
+- **die Gesellschaft, die Gesellschaften** — общество *(Kap. 4)*
+- **das Gespann, die Gespanne** — упряжка *(Kap. 9)*
+- **gesprungen** — треснувший *(Kap. 8)*
+- **die Geste, die Gesten** — жест *(Kap. 8)*
+- **das Getümmel** — свалка, сутолока *(Kap. 7)*
+- **die Gewalt** — сила, насилие *(Kap. 2)*
+- **die Gewehrsalve, die Gewehrsalven** — ружейный залп *(Kap. 8)*
+- **das Gewicht, die Gewichte** — гиря *(Kap. 7)*
+- **die Gewitterwolke, die Gewitterwolken** — грозовая туча *(Kap. 3)*
+- **das Gezänk** — препирательство, перебранка *(Kap. 7)*
+- **die Gicht** — подагра *(Kap. 10)*
+- **die Gier** — алчность, жадность *(Kap. 7)*
+- **gießen (goss, hat gegossen)** — лить, хлестать *(Kap. 3)*
+- **glatt** — гладко *(Kap. 5)*
+- **gleichmäßig** — равномерно *(Kap. 2)*
+- **gleiten (glitt, ist geglitten)** — скользить *(Kap. 5)*
+- **der Glockenturm, die Glockentürme** — колокольня *(Kap. 8)*
+- **glucken** — хлопотать как наседка *(Kap. 10)*
+- **glänzend** — блестящий *(Kap. 3)*
+- **das Glöckchen, die Glöckchen** — колокольчик *(Kap. 5)*
+- **glücklos** — неудачливый *(Kap. 8)*
+- **Gnade walten lassen** — смилостивиться *(Kap. 10)*
+- **die Goldader, die Goldadern** — золотоносная жила *(Kap. 1)*
+- **die Gouvernementsstadt, die Gouvernementsstädte** — губернский город *(Kap. 2)*
+- **das Grammofon, die Grammofone** — граммофон *(Kap. 6)*
+- **grenzenlos** — беззаветный, безграничный *(Kap. 9)*
+- **das Gros, die Gros** — гросс (12 дюжин) *(Kap. 9)*
+- **der Groschen, die Groschen** — грош *(Kap. 7)*
+- **großartig** — великолепный *(Kap. 5)*
+- **der Grundsatz, die Grundsätze** — принцип *(Kap. 10)*
+- **die Gruppe, die Gruppen** — группа, партия *(Kap. 2)*
+- **gruselig** — жутко, страшно *(Kap. 2)*
+- **gründlich** — тщательно *(Kap. 5)*
+- **der Gummibaum, die Gummibäume** — фикус *(Kap. 3)*
+- **gummiert** — прорезиненный *(Kap. 8)*
+- **der Gummischuh, die Gummischuhe** — калоша *(Kap. 2)*
+- **die Gummisohle, die Gummisohlen** — каучуковая подошва *(Kap. 2)*
+- **hacken** — рубить *(Kap. 2)*
+- **hager** — тощий, худой *(Kap. 9)*
+- **der Hain, die Haine** — роща *(Kap. 10)*
+- **die Halbinsel, die Halbinseln** — полуостров *(Kap. 9)*
+- **der Hammer, die Hämmer** — молот *(Kap. 6)*
+- **handeln** — действовать *(Kap. 1)*
+- **die Handfläche, die Handflächen** — ладонь *(Kap. 9)*
+- **die Handgicht** — хирагра *(Kap. 10)*
+- **der Handlanger, die Handlanger** — приспешник *(Kap. 8)*
+- **das Handwerk** — ремесло *(Kap. 1)*
+- **der Hang, die Hänge** — склон *(Kap. 10)*
+- **hassen** — ненавидеть *(Kap. 2)*
+- **hastig** — суетливо, поспешно *(Kap. 8)*
+- **der Haufen, die Haufen** — куча *(Kap. 7)*
+- **der Haupteingang, die Haupteingänge** — парадный вход *(Kap. 2)*
+- **die Hauptschlagader** — главная артерия *(Kap. 4)*
+- **die Hauptstadt, die Hauptstädte** — столица *(Kap. 2)*
+- **hauptsächlich** — главным образом *(Kap. 4)*
+- **der Hausbesitzer, die Hausbesitzer** — домовладелец *(Kap. 4)*
+- **die Hausverwaltung, die Hausverwaltungen** — домоуправление *(Kap. 2)*
+- **heilkräftig** — целебный *(Kap. 10)*
+- **heiser** — хрипло *(Kap. 5)*
+- **heizen mit + Dat.** — топить (печь) *(Kap. 2)*
+- **heldenhaft** — героический *(Kap. 5)*
+- **der Henkel, die Henkel** — ручка *(Kap. 11)*
+- **herausholen** — извлекать, вытаскивать *(Kap. 9)*
+- **herauskommen (kam heraus, ist herausgekommen)** — выйти, получиться *(Kap. 5)*
+- **die Herkunft** — происхождение *(Kap. 6)*
+- **herrlich** — восхитительный, великолепный *(Kap. 2)*
+- **der Hersteller, die Hersteller** — производитель *(Kap. 5)*
+- **herumlaufen (lief herum, ist herumgelaufen)** — бегать, толкаться *(Kap. 7)*
+- **herumspringen (sprang herum, ist herumgesprungen)** — прыгать туда-сюда *(Kap. 7)*
+- **sich herumtreiben (trieb herum, hat herumgetrieben)** — шляться, слоняться *(Kap. 5)*
+- **hervorsprudeln** — забить (о источнике) *(Kap. 10)*
+- **der Herzschlag** — разрыв сердца *(Kap. 8)*
+- **hinauslassen (ließ hinaus, hat hinausgelassen)** — выпускать *(Kap. 3)*
+- **hinfallen (fiel hin, ist hingefallen)** — упасть *(Kap. 1)*
+- **hinhalten (hielt hin, hat hingehalten)** — подставлять *(Kap. 1)*
+- **hinken** — хромать, прихрамывать *(Kap. 1)*
+- **sich hinknien** — становиться на колено *(Kap. 5)*
+- **hinten** — сзади, на корме *(Kap. 3)*
+- **hintereinander** — подряд *(Kap. 10)*
+- **der Hinterhof, die Hinterhöfe** — проходной двор *(Kap. 1)*
+- **hinterlistig** — коварный *(Kap. 8)*
+- **hinunterschlucken** — проглотить *(Kap. 6)*
+- **der Hirte, die Hirten** — пастух *(Kap. 2)*
+- **hitzig** — пылкий, горячий *(Kap. 8)*
+- **die Hochachtung** — уважение *(Kap. 9)*
+- **das Hochdruckgebiet, die Hochdruckgebiete** — антициклон *(Kap. 11)*
+- **hochmütig** — высокомерно *(Kap. 7)*
+- **der Hocker, die Hocker** — табуретка *(Kap. 5)*
+- **die Hoffnung, die Hoffnungen** — надежда *(Kap. 1)*
+- **hohl** — полый, дутый *(Kap. 3)*
+- **die Holzflöte, die Holzflöten** — дудка *(Kap. 7)*
+- **der Horizont** — горизонт *(Kap. 3)*
+- **die Hornbrille, die Hornbrillen** — роговые очки *(Kap. 8)*
+- **der Hosenträger, die Hosenträger** — подтяжки *(Kap. 8)*
+- **die Hundehütte, die Hundehütten** — будка *(Kap. 2)*
+- **der Hundertrubelschein, die Hundertrubelscheine** — сторублёвка («катенька») *(Kap. 3)*
+- **der Hundesohn, die Hundesöhne** — сукин сын *(Kap. 8)*
+- **der Hunger** — голод *(Kap. 4)*
+- **hygroskopisch** — гигроскопический *(Kap. 4)*
+- **hysterisch** — истерически *(Kap. 8)*
+- **das Händchen, die Händchen** — ручка *(Kap. 5)*
+- **das Händeschütteln** — рукопожатие *(Kap. 4)*
+- **hölzern** — деревянный *(Kap. 7)*
+- **die Hüfte, die Hüften** — бедро *(Kap. 6)*
+- **hüllen in + Akk.** — кутать, закутывать *(Kap. 9)*
+- **hüpfen** — скакать, прыгать *(Kap. 7)*
+- **die Hütte, die Hütten** — халупа, хижина *(Kap. 2)*
+- **der Idiot, die Idioten** — дурак, идиот *(Kap. 3)*
+- **die Ikonenlampe, die Ikonenlampen** — лампада *(Kap. 7)*
+- **im Suff** — спьяну, по пьяному делу *(Kap. 10)*
+- **immergrün** — вечнозелёный *(Kap. 3)*
+- **die Impotenz** — половое бессилие *(Kap. 10)*
+- **in aller Eile** — на скорую руку *(Kap. 10)*
+- **in den Schatten stellen** — затмевать, превосходить *(Kap. 10)*
+- **in der Blüte seiner Jahre** — во цвете лет *(Kap. 3)*
+- **in der Hitze des Gefechts** — сгоряча *(Kap. 7)*
+- **die Information, die Informationen** — сведения, информация *(Kap. 3)*
+- **der Ingenieur, die Ingenieure** — инженер *(Kap. 2)*
+- **die Innereien** — потроха *(Kap. 7)*
+- **inoffiziell** — неофициальный *(Kap. 2)*
+- **international** — международный *(Kap. 2)*
+- **die Inventurgasse** — Переучётный переулок *(Kap. 4)*
+- **ironisch** — иронически *(Kap. 7)*
+- **die Irrenanstalt, die Irrenanstalten** — психбольница *(Kap. 7)*
+- **das ist zum Verrücktwerden** — с ума сойти *(Kap. 11)*
+- **die Jagd** — погоня, охота *(Kap. 7)*
+- **jagen** — гонять *(Kap. 5)*
+- **das Jahrhundert, die Jahrhunderte** — век *(Kap. 4)*
+- **jammern** — хныкать, ныть *(Kap. 1)*
+- **jedenfalls** — во всяком случае, так или иначе *(Kap. 5)*
+- **jemandem etwas einbrocken** — довести до ручки, заварить кашу *(Kap. 3)*
+- **jemanden in Ruhe lassen** — оставить в покое *(Kap. 8)*
+- **jemanden ins Herz schließen** — полюбить *(Kap. 9)*
+- **der Journalist, die Journalisten** — журналист, газетный работник *(Kap. 4)*
+- **das Jubelgeschrei** — радостные клики *(Kap. 9)*
+- **der Jubilar, die Jubilare** — юбиляр *(Kap. 11)*
+- **das Jubiläum, die Jubiläen** — юбилей *(Kap. 11)*
+- **jugendlich** — юношеский *(Kap. 10)*
+- **der Kaftan, die Kaftane** — кафтан, жупан *(Kap. 1)*
+- **der Kalk** — известь *(Kap. 7)*
+- **die Kanalisation** — канализация *(Kap. 2)*
+- **die Kanone, die Kanonen** — пушка *(Kap. 3)*
+- **die Kanonenkugel, die Kanonenkugeln** — пушечное ядро *(Kap. 5)*
+- **die Karaffe, die Karaffen** — графин *(Kap. 6)*
+- **die Karawane, die Karawanen** — караван *(Kap. 5)*
+- **kassieren** — получать, взимать (деньги) *(Kap. 1)*
+- **die Kavalkade, die Kavalkaden** — кавалькада *(Kap. 7)*
+- **der Kettenhund, die Kettenhunde** — цепная собака *(Kap. 2)*
+- **der Kiefernwald, die Kiefernwälder** — бор, сосновый лес *(Kap. 4)*
+- **der Kilometermann** — «человек-верста» *(Kap. 7)*
+- **der Kiosk, die Kioske** — ларёк *(Kap. 9)*
+- **der Kittel, die Kittel** — халат *(Kap. 10)*
+- **der Kittelschoß, die Kittelschöße** — пола халата *(Kap. 10)*
+- **die Klage, die Klagen** — жалоба *(Kap. 6)*
+- **sich klammern an + Akk.** — вцепиться в *(Kap. 6)*
+- **der Kleinbürger, die Kleinbürger** — мещанин *(Kap. 5)*
+- **der Klempner, die Klempner** — водопроводчик *(Kap. 10)*
+- **das Klima** — климат *(Kap. 9)*
+- **klingeln** — звенеть *(Kap. 5)*
+- **kläglich** — жалобно *(Kap. 9)*
+- **knallen mit + Dat.** — щёлкать, хлестать *(Kap. 9)*
+- **knapp** — коротко, отрывисто *(Kap. 3)*
+- **knarren** — скрипеть *(Kap. 10)*
+- **der Knopf, die Knöpfe** — кнопка *(Kap. 2)*
+- **der Koffer, die Koffer** — чемодан *(Kap. 2)*
+- **kohlensauer** — углекислый *(Kap. 10)*
+- **das Kolumbarium, die Kolumbarien** — колумбарий *(Kap. 9)*
+- **das Komma** — запятая *(Kap. 10)*
+- **kommandieren** — командовать *(Kap. 8)*
+- **die Kommunalwirtschaft** — коммунальное хозяйство *(Kap. 10)*
+- **der Kommunist, die Kommunisten** — коммунист *(Kap. 3)*
+- **der Konditor, die Konditoren** — кондитер *(Kap. 1)*
+- **die Konserve, die Konserven** — консервы *(Kap. 8)*
+- **konsumieren** — потреблять *(Kap. 10)*
+- **der Konsumverein, die Konsumvereine** — кооператив (потребительский) *(Kap. 4)*
+- **der Korb, die Körbe** — корзина *(Kap. 8)*
+- **die Korkenzieherstraße** — Штопорная улица *(Kap. 6)*
+- **der Korrespondent, die Korrespondenten** — корреспондент *(Kap. 9)*
+- **kostbar** — драгоценный *(Kap. 7)*
+- **das Kostüm, die Kostüme** — костюм (женский), тальер *(Kap. 3)*
+- **krampfhaft** — судорожно *(Kap. 10)*
+- **das Krankenhaus, die Krankenhäuser** — больница, госпиталь *(Kap. 1)*
+- **die Krawatte, die Krawatten** — галстук *(Kap. 2)*
+- **der Kredit, die Kredite** — заём, кредит *(Kap. 1)*
+- **die Kreditgenossenschaft, die Kreditgenossenschaften** — кредитное товарищество *(Kap. 6)*
+- **der Kreis, die Kreise** — круг *(Kap. 7)*
+- **kreischen** — вопить, визжать *(Kap. 7)*
+- **kreisen** — кружить *(Kap. 10)*
+- **das Krematorium, die Krematorien** — крематорий *(Kap. 9)*
+- **kriechen (kroch, ist gekrochen)** — ползти, заползать *(Kap. 4)*
+- **der Krieg, die Kriege** — война *(Kap. 4)*
+- **kristallklar** — кристальный *(Kap. 7)*
+- **die Kritik** — критика *(Kap. 7)*
+- **die Krokodilprägung** — крокодиловая выделка *(Kap. 11)*
+- **das Kräfteverhältnis** — соотношение сил *(Kap. 7)*
+- **die Krähe, die Krähen** — ворона *(Kap. 3)*
+- **das Krähenviertel** — «Воронья слободка» *(Kap. 2)*
+- **die Krätze** — чесотка *(Kap. 10)*
+- **krönen** — венчать, увенчивать *(Kap. 8)*
+- **das Kupfer** — медь *(Kap. 2)*
+- **die Kur, die Kuren** — лечение, курорт *(Kap. 4)*
+- **kurbeln** — крутить (ручку кинокамеры) *(Kap. 9)*
+- **der Kurort, die Kurorte** — курорт *(Kap. 4)*
+- **der Kursaal, die Kursäle** — курзал *(Kap. 10)*
+- **die Kurve, die Kurven** — кривая *(Kap. 7)*
+- **der Kutscher, die Kutscher** — извозчик, кучер *(Kap. 1)*
+- **der Käfig, die Käfige** — клетка *(Kap. 2)*
+- **käuflich** — продажный *(Kap. 5)*
+- **der Küchenherd, die Küchenherde** — кухонная плита *(Kap. 2)*
+- **der Kühler, die Kühler** — радиатор *(Kap. 1)*
+- **kühn** — молодецкий, удалой *(Kap. 1)*
+- **lachen über + Akk.** — смеяться над *(Kap. 2)*
+- **das Lackgürtelchen, die Lackgürtelchen** — лаковый поясок *(Kap. 11)*
+- **lackiert** — лакированный *(Kap. 2)*
+- **die Landkarte, die Landkarten** — географическая карта *(Kap. 4)*
+- **der Landsmann, die Landsleute** — земляк, соотечественник *(Kap. 2)*
+- **die Landspitze, die Landspitzen** — стрелка, мыс *(Kap. 4)*
+- **die Landstraße, die Landstraßen** — шоссе *(Kap. 5)*
+- **sich langweilen** — скучать *(Kap. 1)*
+- **der Lauf, die Läufe** — ствол, дуло *(Kap. 8)*
+- **lautlos** — беззвучно *(Kap. 1)*
+- **die Lawine, die Lawinen** — лавина *(Kap. 2)*
+- **das Leben lieben** — быть жизнелюбивым *(Kap. 3)*
+- **die Lebenserfahrung** — жизненный опыт *(Kap. 3)*
+- **die Lebensverhältnisse** — быт, условия жизни *(Kap. 10)*
+- **lebhaft** — оживлённый *(Kap. 4)*
+- **das Leder** — кожа *(Kap. 2)*
+- **die Lederjacke, die Lederjacken** — кожаная куртка *(Kap. 5)*
+- **leer** — невидящий, пустой *(Kap. 10)*
+- **die Legende, die Legenden** — легенда *(Kap. 4)*
+- **sich lehnen über + Akk.** — свешиваться *(Kap. 8)*
+- **leiden (litt, hat gelitten)** — страдать *(Kap. 6)*
+- **leidenschaftlich** — страстно *(Kap. 7)*
+- **der Leierspieler, die Leierspieler** — лирник, бандурист *(Kap. 10)*
+- **leitend** — ответственный, руководящий *(Kap. 3)*
+- **der Leiter, die Leiter** — заведующий, руководитель *(Kap. 1)*
+- **der Leiterwagen, die Leiterwagen** — телега *(Kap. 7)*
+- **die Lieferung, die Lieferungen** — партия (товара) *(Kap. 7)*
+- **loben** — хвалить, прославлять *(Kap. 1)*
+- **das Loblied, die Loblieder** — хвалебная песнь *(Kap. 10)*
+- **der Lorbeer, die Lorbeeren** — лавры *(Kap. 9)*
+- **der Luftschiffer, die Luftschiffer** — воздухоплаватель *(Kap. 8)*
+- **das Luftschloss, die Luftschlösser** — воздушный замок *(Kap. 10)*
+- **die Luke, die Luken** — люк *(Kap. 3)*
+- **der Lärm** — шум *(Kap. 3)*
+- **lärmen** — шуметь, галдеть *(Kap. 5)*
+- **lässig** — вольно, небрежно *(Kap. 9)*
+- **der Läufer, die Läufer** — ковровая дорожка *(Kap. 11)*
+- **läuten** — звонить (в колокол) *(Kap. 8)*
+- **lügen (log, hat gelogen)** — врать, брехать *(Kap. 2)*
+- **lüstern** — похотливый *(Kap. 4)*
+- **die Macht** — мощь, сила *(Kap. 6)*
+- **das macht nichts** — это ничего *(Kap. 5)*
+- **der Machthaber, die Machthaber** — власть имущий *(Kap. 10)*
+- **madagassisch** — мадагаскарский *(Kap. 10)*
+- **der Magen, die Mägen** — желудок *(Kap. 5)*
+- **der Magenkatarrh** — катар желудка *(Kap. 10)*
+- **mager** — тощий *(Kap. 1)*
+- **malerisch** — живописно *(Kap. 4)*
+- **das Mandolinenorchester, die Mandolinenorchester** — оркестр мандолинистов *(Kap. 11)*
+- **der Mangel, die Mängel** — дефект, недостаток *(Kap. 7)*
+- **die Mappe, die Mappen** — папка *(Kap. 2)*
+- **der Marktstand, die Marktstände** — базарный лоток *(Kap. 11)*
+- **der Markttag, die Markttage** — базарный день *(Kap. 6)*
+- **der Marmor** — мрамор *(Kap. 2)*
+- **das Massaker, die Massaker** — избиение, бойня *(Kap. 7)*
+- **matt** — тусклый *(Kap. 5)*
+- **die Mausefalle, die Mausefallen** — мышеловка *(Kap. 7)*
+- **das Maß** — мера *(Kap. 2)*
+- **die Meldung, die Meldungen** — рапорт, донесение *(Kap. 11)*
+- **melken** — доить *(Kap. 5)*
+- **die Melone, die Melonen** — котелок (шляпа) *(Kap. 1)*
+- **die Menge, die Mengen** — толпа *(Kap. 3)*
+- **die Menschenmasse, die Menschenmassen** — толпа *(Kap. 5)*
+- **das Messgerät, die Messgeräte** — измерительный прибор *(Kap. 8)*
+- **das Messing** — латунь, жёлтая медь *(Kap. 2)*
+- **der Mestize, die Mestizen** — метис *(Kap. 6)*
+- **der Meteorit, die Meteoriten** — метеорит *(Kap. 9)*
+- **die Migräne** — мигрень *(Kap. 10)*
+- **militärisch** — военизированный *(Kap. 2)*
+- **die Miliz** — милиция *(Kap. 2)*
+- **der Milzbrand** — сибирская язва *(Kap. 10)*
+- **mindestens** — по меньшей мере *(Kap. 7)*
+- **das Mineralgetränk, die Mineralgetränke** — минеральный напиток *(Kap. 10)*
+- **der Ministerpräsident, die Ministerpräsidenten** — председатель совета министров, премьер *(Kap. 1)*
+- **sich mischen unter + Akk.** — смешиваться с *(Kap. 7)*
+- **die Mischung, die Mischungen** — смесь *(Kap. 2)*
+- **das Missverständnis, die Missverständnisse** — недоразумение *(Kap. 8)*
+- **der Mist** — навоз *(Kap. 7)*
+- **mit Mühe** — с трудом *(Kap. 3)*
+- **der Mitbürger, die Mitbürger** — согражданин *(Kap. 2)*
+- **das Mitleid** — жалость *(Kap. 1)*
+- **mitteilen** — сообщать, доводить до сведения *(Kap. 4)*
+- **die Mittel** — средства *(Kap. 9)*
+- **der Mittelbauer, die Mittelbauern** — середняк *(Kap. 10)*
+- **der Mord, die Morde** — убийство *(Kap. 1)*
+- **der Morgenmantel, die Morgenmäntel** — капот, халат *(Kap. 3)*
+- **morsch** — подгнивший, трухлявый *(Kap. 7)*
+- **der Mulatte, die Mulatten** — мулат *(Kap. 6)*
+- **munter** — бодрый *(Kap. 7)*
+- **murmeln** — роптать, бормотать *(Kap. 5)*
+- **der Märtyrer, die Märtyrer** — мученик *(Kap. 11)*
+- **müde** — устало *(Kap. 5)*
+- **münden in + Akk.** — впадать в *(Kap. 4)*
+- **mürrisch** — угрюмо *(Kap. 8)*
+- **nach und nach** — постепенно *(Kap. 2)*
+- **der Nachbar, die Nachbarn** — сосед *(Kap. 5)*
+- **der Nachbarstaat, die Nachbarstaaten** — соседнее государство *(Kap. 1)*
+- **nachdenklich** — задумчиво *(Kap. 6)*
+- **nacheinander** — последовательно, по очереди *(Kap. 4)*
+- **die Nachricht, die Nachrichten** — новость, известие *(Kap. 3)*
+- **nagen an + Dat.** — грызть *(Kap. 6)*
+- **die Natur** — природа *(Kap. 2)*
+- **neidisch** — завистливо *(Kap. 7)*
+- **die NEP** — нэп *(Kap. 4)*
+- **das Netz, die Netze** — сетка *(Kap. 8)*
+- **die Neugier** — любопытство *(Kap. 9)*
+- **neugierig** — любопытный *(Kap. 5)*
+- **sich nicht lumpen lassen** — не ударить в грязь лицом *(Kap. 11)*
+- **niedergeschlagen** — понуро, удручённо *(Kap. 10)*
+- **niedrig** — низменный *(Kap. 7)*
+- **niemand** — никто *(Kap. 2)*
+- **nirgendwohin** — некуда *(Kap. 3)*
+- **die Nonne, die Nonnen** — монахиня *(Kap. 4)*
+- **normalerweise** — обычно *(Kap. 1)*
+- **die Nähmaschine, die Nähmaschinen** — швейная машинка *(Kap. 3)*
+- **nützen** — приносить пользу, толк *(Kap. 6)*
+- **die Oberbekleidung** — верхнее платье *(Kap. 10)*
+- **die Oberfläche, die Oberflächen** — поверхность *(Kap. 7)*
+- **offensichtlich** — явно *(Kap. 8)*
+- **offiziell** — официально *(Kap. 7)*
+- **ohne Erlaubnis** — самовольно, без разрешения *(Kap. 2)*
+- **die Ohrenklappe, die Ohrenklappen** — ухо (шапки-ушанки) *(Kap. 9)*
+- **die Operettentruppe, die Operettentruppen** — опереточная труппа *(Kap. 10)*
+- **das Opfer, die Opfer** — жертва *(Kap. 1)*
+- **die Opposition** — оппозиция *(Kap. 1)*
+- **ordentlich** — опрятный, аккуратный *(Kap. 1)*
+- **organisieren** — организовывать *(Kap. 8)*
+- **der Overall, die Overalls** — комбинезон *(Kap. 2)*
+- **packen** — хватать *(Kap. 2)*
+- **Palästina** — Палестина *(Kap. 10)*
+- **die Panik** — паника *(Kap. 3)*
+- **die Papiere** — документы *(Kap. 4)*
+- **die Parabel, die Parabeln** — парабола *(Kap. 10)*
+- **parabolisch** — параболический *(Kap. 7)*
+- **pardon** — пардон, извините *(Kap. 2)*
+- **das Parlament, die Parlamente** — парламент, палата *(Kap. 1)*
+- **das Parteibuch, die Parteibücher** — партийный билет *(Kap. 6)*
+- **parteilos** — беспартийный *(Kap. 5)*
+- **das Parteimitglied, die Parteimitglieder** — партиец, член партии *(Kap. 5)*
+- **der Passagier, die Passagiere** — пассажир *(Kap. 3)*
+- **passen + Dat.** — подходить *(Kap. 6)*
+- **passen in + Akk.** — помещаться, вмещаться *(Kap. 3)*
+- **die Peitsche, die Peitschen** — бич, кнут *(Kap. 9)*
+- **der Pelzmantel, die Pelzmäntel** — шуба *(Kap. 2)*
+- **die Pelzmütze, die Pelzmützen** — меховая шапка *(Kap. 9)*
+- **die Perle, die Perlen** — жемчужина *(Kap. 2)*
+- **der Persianer** — каракуль *(Kap. 6)*
+- **das Personal** — штат, персонал *(Kap. 8)*
+- **der Personenaufzug, die Personenaufzüge** — пассажирский лифт *(Kap. 2)*
+- **die Persönlichkeit, die Persönlichkeiten** — личность *(Kap. 9)*
+- **die Pest** — мор, чума *(Kap. 4)*
+- **der Petroleumkocher, die Petroleumkocher** — примус *(Kap. 8)*
+- **die Petroleumlampe, die Petroleumlampen** — керосиновая лампа *(Kap. 7)*
+- **die Pfefferwurst, die Pfefferwürste** — перцовая колбаса *(Kap. 8)*
+- **der Pfeil, die Pfeile** — стрела *(Kap. 4)*
+- **das Pferdegeschirr** — сбруя, упряжь *(Kap. 4)*
+- **das Pfund, die Pfunde** — фунт *(Kap. 3)*
+- **die Pfütze, die Pfützen** — лужа *(Kap. 10)*
+- **das Plakat, die Plakate** — плакат *(Kap. 9)*
+- **das Planetarium, die Planetarien** — планетарий *(Kap. 9)*
+- **planschen** — плескаться *(Kap. 10)*
+- **der Planwagen, die Planwagen** — кибитка *(Kap. 5)*
+- **platzen** — лопнуть *(Kap. 10)*
+- **das Plumpsklo, die Plumpsklos** — дощатый (дачный) клозет *(Kap. 2)*
+- **plötzlich** — внезапно *(Kap. 4)*
+- **die Plünderung, die Plünderungen** — разграбление *(Kap. 4)*
+- **das Podium, die Podien** — эстрада, сцена *(Kap. 11)*
+- **polieren** — шлифовать, полировать *(Kap. 7)*
+- **der Poljane, die Poljanen** — полянин (древнее племя) *(Kap. 6)*
+- **das Poltern** — грохот, стук *(Kap. 7)*
+- **der Pope, die Popen** — поп, батюшка *(Kap. 4)*
+- **das Porzellan** — фарфор *(Kap. 2)*
+- **die Prellung, die Prellungen** — ушиб *(Kap. 1)*
+- **der Priester, die Priester** — жрец *(Kap. 11)*
+- **die Pritsche, die Pritschen** — топчан, нары *(Kap. 2)*
+- **der Privathändler, die Privathändler** — частник, частный торговец *(Kap. 1)*
+- **das Probieramt, die Probierämter** — пробирная палатка *(Kap. 7)*
+- **der Proletarier, die Proletarier** — пролетарий *(Kap. 6)*
+- **die Propagierung** — пропаганда *(Kap. 10)*
+- **der Propellerschlitten, die Propellerschlitten** — аэросани *(Kap. 9)*
+- **protestieren gegen + Akk.** — протестовать против *(Kap. 6)*
+- **das Protokoll, die Protokolle** — протокол *(Kap. 2)*
+- **die Provinz** — провинция *(Kap. 4)*
+- **provinziell** — провинциальный, заштатный *(Kap. 1)*
+- **prächtig** — великолепный *(Kap. 4)*
+- **die Prärie, die Prärien** — прерия *(Kap. 2)*
+- **der Präzedenzfall, die Präzedenzfälle** — прецедент *(Kap. 7)*
+- **die Prüfung, die Prüfungen** — испытание *(Kap. 11)*
+- **der Pumps, die Pumps** — туфли-лодочки *(Kap. 11)*
+- **der Putsch, die Putsche** — путч *(Kap. 1)*
+- **pünktlich** — аккуратно, пунктуально *(Kap. 1)*
+- **das Quadrat, die Quadrate** — квадрат *(Kap. 2)*
+- **das Quecksilber** — ртуть *(Kap. 6)*
+- **die Quelle, die Quellen** — источник *(Kap. 10)*
+- **quietschen** — скрипеть, визжать *(Kap. 1)*
+- **quälen** — истязать, мучить *(Kap. 9)*
+- **das Rad, die Räder** — колесо *(Kap. 1)*
+- **rascheln** — шуршать, трещать *(Kap. 7)*
+- **der Rat** — совет *(Kap. 5)*
+- **ratlos** — озадаченно, растерянно *(Kap. 7)*
+- **die Ratlosigkeit** — недоумение *(Kap. 8)*
+- **der Ratschlag, die Ratschläge** — совет *(Kap. 1)*
+- **rauchen** — дымиться *(Kap. 8)*
+- **die Raumwissenschaft, die Raumwissenschaften** — пространственные науки *(Kap. 9)*
+- **der Rebell, die Rebellen** — бунтарь, мятежник *(Kap. 6)*
+- **rechtfertigen** — оправдывать *(Kap. 10)*
+- **der Rechtsbeistand, die Rechtsbeistände** — правозаступник, адвокат *(Kap. 11)*
+- **rechtzeitig** — вовремя *(Kap. 1)*
+- **die Rede, die Reden** — речь *(Kap. 3)*
+- **die Redekunst** — ораторское искусство *(Kap. 11)*
+- **das Regal, die Regale** — этажерка, полка *(Kap. 2)*
+- **regelmäßig** — регулярно, методично *(Kap. 2)*
+- **der Regenschirm, die Regenschirme** — зонтик *(Kap. 3)*
+- **der Regentropfen, die Regentropfen** — капля дождя *(Kap. 3)*
+- **die Regierungszeit** — царствование *(Kap. 9)*
+- **das Regime, die Regime** — режим *(Kap. 4)*
+- **reichlich** — в изобилии *(Kap. 5)*
+- **der Reichtum, die Reichtümer** — богатство *(Kap. 6)*
+- **die Reihe, die Reihen** — шеренга *(Kap. 8)*
+- **rein** — чистый *(Kap. 3)*
+- **reinigen** — очищать *(Kap. 5)*
+- **die Reise, die Reisen** — путешествие, плавание *(Kap. 3)*
+- **reizend** — прелестный *(Kap. 9)*
+- **der Renner, die Renner** — скакун *(Kap. 9)*
+- **die Rente, die Renten** — пенсия *(Kap. 1)*
+- **das Rentier, die Rentiere** — северный олень *(Kap. 9)*
+- **der Rentierpelz, die Rentierpelze** — оленья доха *(Kap. 9)*
+- **die Republik, die Republiken** — республика *(Kap. 4)*
+- **restlos** — вконец, полностью *(Kap. 10)*
+- **retten** — спасать *(Kap. 1)*
+- **der Retter, die Retter** — спаситель *(Kap. 9)*
+- **die Rettung** — спасение, избавление *(Kap. 3)*
+- **die Reue** — раскаяние *(Kap. 6)*
+- **das Revier, die Reviere** — участок, часть *(Kap. 4)*
+- **der Revolver, die Revolver** — наган, револьвер *(Kap. 8)*
+- **das Rheuma** — ревматизм *(Kap. 10)*
+- **riechen (roch, hat gerochen)** — пахнуть *(Kap. 2)*
+- **riesig** — огромный, безбрежный *(Kap. 6)*
+- **die Rille, die Rillen** — рубчик, желобок *(Kap. 1)*
+- **das Rindsleder** — яловая кожа *(Kap. 6)*
+- **der Ring, die Ringe** — перстень, кольцо *(Kap. 6)*
+- **rinnen (rann, ist geronnen)** — струиться, течь *(Kap. 9)*
+- **das Ritual, die Rituale** — обряд, ритуал *(Kap. 9)*
+- **der Rockschoß, die Rockschöße** — пола (одежды) *(Kap. 9)*
+- **das Rohr, die Rohre** — труба *(Kap. 2)*
+- **rollen** — катиться *(Kap. 2)*
+- **das Rosshaar** — конский волос *(Kap. 4)*
+- **rotwangig** — румяный *(Kap. 3)*
+- **der Rowdy, die Rowdys** — хулиган *(Kap. 2)*
+- **der Ruhm** — слава *(Kap. 6)*
+- **ruhmreich** — славный *(Kap. 4)*
+- **der Ruin** — разорение *(Kap. 1)*
+- **rutschen** — скользить *(Kap. 7)*
+- **das Rätsel, die Rätsel** — загадка *(Kap. 11)*
+- **der Räuber, die Räuber** — разбойник *(Kap. 4)*
+- **rüstig** — бодрый *(Kap. 9)*
+- **die Saatkrähe, die Saatkrähen** — грач *(Kap. 10)*
+- **die Sache, die Sachen** — дело *(Kap. 11)*
+- **sachlich** — деловито *(Kap. 2)*
+- **der Sack, die Säcke** — мешок, котомка *(Kap. 1)*
+- **die Sackgasse, die Sackgassen** — тупик *(Kap. 4)*
+- **die Saisonarbeit** — отхожий промысел *(Kap. 1)*
+- **das Sakko, die Sakkos** — пиджак *(Kap. 8)*
+- **das Salvenfeuer** — стрельба залпами (пачками) *(Kap. 8)*
+- **die Salzgurkengasse** — Малосольный переулок *(Kap. 4)*
+- **die Sammleraktentasche** — коллекционный портфель *(Kap. 11)*
+- **die Sammlung, die Sammlungen** — коллекция *(Kap. 6)*
+- **der Samojedenschlitten, die Samojedenschlitten** — самоедские (ненецкие) сани *(Kap. 9)*
+- **das Sanatorium, die Sanatorien** — санаторий, здравница *(Kap. 4)*
+- **der Sarg, die Särge** — гроб *(Kap. 3)*
+- **der Sargmacher, die Sargmacher** — гробовщик *(Kap. 3)*
+- **schaden + Dat.** — вредить *(Kap. 5)*
+- **der Schafskopf, die Schafsköpfe** — болван, дурак *(Kap. 8)*
+- **die Schankstube, die Schankstuben** — питейное заведение *(Kap. 9)*
+- **schaukeln** — качать, качаться *(Kap. 3)*
+- **der Schaum** — пена *(Kap. 1)*
+- **die Scheingenossenschaft, die Scheingenossenschaften** — лжеартель *(Kap. 1)*
+- **der Scheinvorsitzende** — лжепредседатель *(Kap. 6)*
+- **die Schelle, die Schellen** — бубенец *(Kap. 9)*
+- **schieben (schob, hat geschoben)** — толкать, катить *(Kap. 2)*
+- **schieben auf + Akk. (schob, hat geschoben)** — сваливать на *(Kap. 10)*
+- **schief** — искоса *(Kap. 6)*
+- **schielend** — косой *(Kap. 9)*
+- **schießen (schoss, ist geschossen)** — бить, хлестать *(Kap. 10)*
+- **das Schilf** — камыш *(Kap. 8)*
+- **schimpfen** — ругаться *(Kap. 2)*
+- **schlachten** — резать, забивать *(Kap. 7)*
+- **der Schlafwandler, die Schlafwandler** — сомнамбула, лунатик *(Kap. 6)*
+- **schlafwandlerisch** — лунатический *(Kap. 7)*
+- **der Schlagbaum, die Schlagbäume** — рогатка, шлагбаум *(Kap. 10)*
+- **schlagen (schlug, hat geschlagen)** — бить *(Kap. 1)*
+- **die Schlange, die Schlangen** — очередь *(Kap. 11)*
+- **schlau** — сметливый, хитрый *(Kap. 1)*
+- **der Schlauch, die Schläuche** — шланг *(Kap. 11)*
+- **schlecht** — плохой, испорченный *(Kap. 5)*
+- **die Schleife, die Schleifen** — бант *(Kap. 11)*
+- **schleppen** — тащить *(Kap. 2)*
+- **schleudern** — метать, швырять *(Kap. 11)*
+- **die Schleuse, die Schleusen** — шлюз *(Kap. 3)*
+- **schlimm** — плохой, дурной *(Kap. 5)*
+- **schluchzen** — всхлипывать, рыдать *(Kap. 2)*
+- **schlucken** — глотать *(Kap. 6)*
+- **sich schlängeln** — виться, извиваться *(Kap. 11)*
+- **schlüpfen** — юркнуть, проскользнуть *(Kap. 5)*
+- **schmeichelnd** — вкрадчиво *(Kap. 5)*
+- **schmelzen (schmolz, ist geschmolzen)** — таять *(Kap. 8)*
+- **schmerzhaft** — больно *(Kap. 2)*
+- **schmücken** — украшать, уснащать *(Kap. 10)*
+- **der Schnaps, die Schnäpse** — рюмка водки, шнапс *(Kap. 6)*
+- **schnarren** — хрипеть, отчеканивать *(Kap. 11)*
+- **schnaufen** — отдуваться, пыхтеть *(Kap. 6)*
+- **der Schneestaub** — снежная пыль *(Kap. 5)*
+- **der Schneesturm, die Schneestürme** — метель *(Kap. 5)*
+- **die Schneewehe, die Schneewehen** — сугроб *(Kap. 5)*
+- **der Schnellaufzug, die Schnellaufzüge** — скоростной (экспрессный) лифт *(Kap. 2)*
+- **der Schnurrbart, die Schnurrbärte** — усы *(Kap. 1)*
+- **der Schraubenschlüssel, die Schraubenschlüssel** — гаечный ключ *(Kap. 1)*
+- **schrecklich** — ужасный, страшный *(Kap. 1)*
+- **der Schreibtisch, die Schreibtische** — письменный стол *(Kap. 6)*
+- **schrill** — пронзительный *(Kap. 9)*
+- **schräg** — наискось *(Kap. 8)*
+- **die Schubkarre, die Schubkarren** — тачка *(Kap. 2)*
+- **die Schuhcreme, die Schuhcremes** — вакса, сапожный крем *(Kap. 5)*
+- **die Schuld** — вина *(Kap. 5)*
+- **schuld sein an + Dat.** — быть виноватым в *(Kap. 4)*
+- **die Schulden** — долги *(Kap. 9)*
+- **schwach** — слабый, жидкий *(Kap. 7)*
+- **schwanken** — пошатываться, качаться *(Kap. 3)*
+- **der Schwarzfahrer, die Schwarzfahrer** — безбилетник, «заяц» *(Kap. 6)*
+- **schweben** — плыть, парить *(Kap. 8)*
+- **schweigen (schwieg, hat geschwiegen)** — молчать *(Kap. 3)*
+- **schweißbedeckt** — взмыленный *(Kap. 9)*
+- **die Schwelle, die Schwellen** — порог *(Kap. 5)*
+- **das Schwert, die Schwerter** — меч *(Kap. 4)*
+- **der Schwindel** — жульничество, обман *(Kap. 7)*
+- **schwingen (schwang, hat geschwungen)** — размахивать, потрясать *(Kap. 8)*
+- **die Schwäche** — слабость *(Kap. 5)*
+- **schwören (schwor, hat geschworen)** — божиться, клясться *(Kap. 10)*
+- **sich schämen** — стыдиться *(Kap. 1)*
+- **schätzen** — ценить *(Kap. 6)*
+- **schäumend** — пенистый *(Kap. 5)*
+- **schüchtern** — робко *(Kap. 6)*
+- **der See, die Seen** — озеро *(Kap. 2)*
+- **die Seele, die Seelen** — душа *(Kap. 5)*
+- **das Segeltuch** — брезент, парусина *(Kap. 3)*
+- **die Segnung, die Segnungen** — блага *(Kap. 10)*
+- **die Sehenswürdigkeit, die Sehenswürdigkeiten** — достопримечательность *(Kap. 7)*
+- **die Sehnsucht** — страстное желание, вожделение *(Kap. 3)*
+- **Sehnsucht haben nach + Dat.** — тосковать по *(Kap. 2)*
+- **sehnsüchtig** — с тоской *(Kap. 6)*
+- **sein Herz ausschütten** — отвести душу *(Kap. 6)*
+- **das Seitentier** — пристяжная *(Kap. 9)*
+- **selbst gemacht** — кустарный, самодельный *(Kap. 2)*
+- **selbstverständlich** — разумеется *(Kap. 6)*
+- **selbstzufrieden** — самодовольно *(Kap. 3)*
+- **selig** — блаженный, счастливый *(Kap. 5)*
+- **selten** — редкий *(Kap. 6)*
+- **seltsam** — странный, удивительный *(Kap. 1)*
+- **seltsamerweise** — по странной иронии судьбы *(Kap. 4)*
+- **die Sensation, die Sensationen** — сенсация *(Kap. 1)*
+- **seufzen** — вздыхать *(Kap. 5)*
+- **die Sichel, die Sicheln** — серп *(Kap. 6)*
+- **sich sichern** — занимать, обеспечивать себе *(Kap. 8)*
+- **siegesgewiss** — победоносно *(Kap. 10)*
+- **sinken (sank, ist gesunken)** — опускаться, спадать *(Kap. 3)*
+- **der Sinn** — смысл *(Kap. 7)*
+- **die Sintflut** — всемирный потоп *(Kap. 3)*
+- **das Sohlenleder** — подошвенная кожа, подошва *(Kap. 11)*
+- **der Soldat, die Soldaten** — солдат *(Kap. 4)*
+- **der Sozialist, die Sozialisten** — социалист *(Kap. 1)*
+- **Spalier stehen** — стоять шпалерами *(Kap. 9)*
+- **spannen** — взводить, натягивать *(Kap. 7)*
+- **spiegeln** — отражать *(Kap. 2)*
+- **sich spiegeln** — отражаться *(Kap. 7)*
+- **die Spinnergasse** — Малахольный переулок *(Kap. 4)*
+- **der Sportler, die Sportler** — спортсмен *(Kap. 8)*
+- **die Spur, die Spuren** — след *(Kap. 1)*
+- **spurlos** — бесследно *(Kap. 8)*
+- **spöttisch** — насмешливо *(Kap. 2)*
+- **staatlich** — казённый *(Kap. 9)*
+- **die Staatsoper, die Staatsopern** — государственная опера *(Kap. 1)*
+- **der Stadtplan, die Stadtpläne** — план города *(Kap. 4)*
+- **der Stadtrand, die Stadtränder** — окраина *(Kap. 9)*
+- **der Stallknecht, die Stallknechte** — конюх *(Kap. 4)*
+- **der Stammbaum, die Stammbäume** — родословное древо *(Kap. 6)*
+- **stampfen** — притопывать, топать *(Kap. 2)*
+- **stark** — сильно *(Kap. 2)*
+- **das Starkbier** — портер, крепкое пиво *(Kap. 5)*
+- **stattgeben (gab statt, hat stattgegeben)** — удовлетворить (просьбу) *(Kap. 6)*
+- **der Stau, die Staus** — пробка, затор *(Kap. 3)*
+- **der Staub** — пыль *(Kap. 7)*
+- **staubig** — пыльный *(Kap. 3)*
+- **stehlen (stahl, hat gestohlen)** — воровать, красть *(Kap. 2)*
+- **steigen (stieg, ist gestiegen)** — подниматься *(Kap. 8)*
+- **das Steingut** — фаянс *(Kap. 7)*
+- **der Stempel, die Stempel** — клеймо, проба *(Kap. 7)*
+- **die Steppe, die Steppen** — степь *(Kap. 2)*
+- **die Steuer, die Steuern** — налог *(Kap. 4)*
+- **der Steuermann, die Steuerleute** — кормчий, рулевой *(Kap. 3)*
+- **der Stiefel, die Stiefel** — сапог *(Kap. 3)*
+- **die Stiefelette, die Stiefeletten** — штиблет, ботинок *(Kap. 11)*
+- **die Stimmung, die Stimmungen** — настроение *(Kap. 6)*
+- **der Stock, die Stöcke** — палка *(Kap. 7)*
+- **das Stockwerk, die Stockwerke** — этаж *(Kap. 2)*
+- **stolz** — гордый *(Kap. 5)*
+- **stolz sein auf + Akk.** — гордиться *(Kap. 4)*
+- **stoßen an + Akk. (stieß, hat/ist gestoßen)** — упираться во *(Kap. 2)*
+- **die Strafe, die Strafen** — наказание, кара *(Kap. 3)*
+- **das Strafgesetzbuch** — уголовный кодекс *(Kap. 5)*
+- **strahlen** — сиять *(Kap. 1)*
+- **der Straßenblock, die Straßenblöcke** — квартал *(Kap. 1)*
+- **der Straßenschuster, die Straßenschuster** — «холодный» сапожник (без мастерской) *(Kap. 6)*
+- **der Straßenverkehr** — уличное движение *(Kap. 1)*
+- **der Strick, die Stricke** — верёвка *(Kap. 5)*
+- **die Stufe, die Stufen** — ступенька *(Kap. 3)*
+- **stumpf** — тупо *(Kap. 7)*
+- **die Sturmglocke, die Sturmglocken** — набат *(Kap. 8)*
+- **der Sturmmantel, die Sturmmäntel** — штормовой плащ *(Kap. 3)*
+- **stöhnen** — стонать *(Kap. 2)*
+- **stören** — мешать *(Kap. 2)*
+- **stürmen** — штурмовать *(Kap. 8)*
+- **stürzen** — ринуться, броситься *(Kap. 2)*
+- **sich stürzen** — бросаться, кидаться *(Kap. 7)*
+- **säuberlich** — аккуратно *(Kap. 11)*
+- **der Südwester, die Südwester** — зюйдвестка *(Kap. 3)*
+- **tadellos** — беспорочный, безупречный *(Kap. 7)*
+- **das Tafelmesser, die Tafelmesser** — столовый нож *(Kap. 7)*
+- **die Taille, die Taillen** — талия *(Kap. 2)*
+- **der Tannenzweig, die Tannenzweige** — хвоя, еловая ветка *(Kap. 11)*
+- **der Tatar, die Tataren** — татарин *(Kap. 4)*
+- **die Taube, die Tauben** — голубь *(Kap. 5)*
+- **tauschen gegen + Akk.** — обменивать на *(Kap. 6)*
+- **die Technik** — техника *(Kap. 2)*
+- **der Techniker, die Techniker** — техник *(Kap. 2)*
+- **der Teilhaber, die Teilhaber** — участник, совладелец *(Kap. 10)*
+- **die Tenorstimme, die Tenorstimmen** — теноровый голос *(Kap. 8)*
+- **teuer** — дорогой *(Kap. 6)*
+- **der Teufel** — чёрт *(Kap. 6)*
+- **der Tintenfleck, die Tintenflecke** — чернильное пятно *(Kap. 1)*
+- **das Tor, die Tore** — ворота *(Kap. 1)*
+- **das Trachom** — трахома *(Kap. 10)*
+- **trauen + Dat.** — доверять *(Kap. 2)*
+- **die Trauermütze, die Trauermützen** — траурная кепка *(Kap. 4)*
+- **traurig** — печально *(Kap. 2)*
+- **treiben (trieb, hat getrieben)** — гнать (скот) *(Kap. 2)*
+- **die Trennwand, die Trennwände** — перегородка *(Kap. 2)*
+- **das Treppengeländer, die Treppengeländer** — лестничные перила *(Kap. 2)*
+- **das Treppenhaus, die Treppenhäuser** — лестничная клетка, лестничная площадка *(Kap. 2)*
+- **treten vor + Akk. (trat, ist getreten)** — предстать перед *(Kap. 7)*
+- **der Trichter, die Trichter** — раструб, труба *(Kap. 6)*
+- **triumphal** — триумфальный *(Kap. 3)*
+- **trocknen** — сохнуть *(Kap. 2)*
+- **die Troika, die Troikas** — тройка (упряжка) *(Kap. 5)*
+- **trommeln** — барабанить, стучать *(Kap. 3)*
+- **der Trottel, die Trottel** — болван *(Kap. 8)*
+- **der Trust, die Trusts** — трест *(Kap. 1)*
+- **der Truthahn, die Truthähne** — индюк *(Kap. 7)*
+- **die Träne, die Tränen** — слеза *(Kap. 2)*
+- **träumen von + Dat.** — мечтать о *(Kap. 2)*
+- **trüb** — мутный *(Kap. 10)*
+- **das Tuch** — сукно *(Kap. 1)*
+- **der Tusch, die Tusche** — туш *(Kap. 11)*
+- **der Typ, die Typen** — типаж *(Kap. 5)*
+- **die Tätowierung, die Tätowierungen** — татуировка *(Kap. 8)*
+- **täuschen** — обманывать, вводить в заблуждение *(Kap. 8)*
+- **töten** — умерщвлять, убивать *(Kap. 7)*
+- **tüchtig** — расторопный *(Kap. 10)*
+- **der Türgriff, die Türgriffe** — дверная ручка *(Kap. 2)*
+- **das Ufer, die Ufer** — берег *(Kap. 3)*
+- **umbringen (brachte um, hat umgebracht)** — убить *(Kap. 1)*
+- **umherstreifen** — рыскать, бродить *(Kap. 9)*
+- **umsonst** — напрасно *(Kap. 2)*
+- **umstoßen (stieß um, hat umgestoßen)** — сшибать с ног *(Kap. 2)*
+- **umwinden (umwand, hat umwunden)** — увивать, обвивать *(Kap. 11)*
+- **umziehen (zog um, ist umgezogen)** — переезжать *(Kap. 3)*
+- **das Unbehagen** — неудовольствие *(Kap. 11)*
+- **unbekannt** — неизвестный *(Kap. 4)*
+- **unbeschreiblich** — невыразимо *(Kap. 6)*
+- **unbändig** — неукротимый *(Kap. 9)*
+- **unerhört** — неслыханный *(Kap. 1)*
+- **unermesslich** — необъятный *(Kap. 9)*
+- **unerwartet** — неожиданный *(Kap. 6)*
+- **unfertig** — незаконченный *(Kap. 2)*
+- **die Ungeduld** — нетерпение *(Kap. 2)*
+- **ungeduldig** — нетерпеливо *(Kap. 5)*
+- **ungeordnet** — нестройный *(Kap. 7)*
+- **ungewöhnlich** — необычно *(Kap. 1)*
+- **unglaublich** — невероятно, неслыханно *(Kap. 2)*
+- **ungleichmäßig** — нестройный *(Kap. 8)*
+- **das Unglück vollmachen** — в довершение несчастья *(Kap. 11)*
+- **unmoralisch** — неэтичный, безнравственный *(Kap. 5)*
+- **unorganisiert** — неорганизованный *(Kap. 10)*
+- **unrein** — нечистый *(Kap. 3)*
+- **die Unruhe** — тревога, беспокойство *(Kap. 8)*
+- **unruhig** — беспокойный, неспокойный *(Kap. 1)*
+- **der Unsinn** — чушь, вздор *(Kap. 9)*
+- **unter strengster Geheimhaltung** — под строжайшим секретом *(Kap. 7)*
+- **untergehen (ging unter, ist untergegangen)** — утонуть, пойти ко дну *(Kap. 4)*
+- **die Unterhose, die Unterhosen** — кальсоны *(Kap. 8)*
+- **die Unterschrift, die Unterschriften** — подпись *(Kap. 3)*
+- **untersuchen** — осматривать, обследовать *(Kap. 9)*
+- **die Unterwäsche** — исподнее, нижнее бельё *(Kap. 8)*
+- **ununterbrochen** — беспрерывно *(Kap. 1)*
+- **unvergleichlich** — бесподобный *(Kap. 11)*
+- **unzählig** — бесчисленный *(Kap. 5)*
+- **der Urgroßvater, die Urgroßväter** — прадед *(Kap. 6)*
+- **das Urteil, die Urteile** — приговор, решение суда *(Kap. 1)*
+- **der Verband, die Verbände** — повязка, бинт *(Kap. 1)*
+- **sich verbeugen** — кланяться *(Kap. 5)*
+- **verbinden (verband, hat verbunden)** — соединять *(Kap. 4)*
+- **verblassen** — меркнуть, тускнеть *(Kap. 6)*
+- **verbringen (verbrachte, hat verbracht)** — проводить (время) *(Kap. 5)*
+- **der Verdacht** — подозрение *(Kap. 2)*
+- **verderben (verdarb, hat verdorben)** — испортить *(Kap. 7)*
+- **verdächtig** — подозрительный *(Kap. 2)*
+- **verehren** — почитать *(Kap. 11)*
+- **der Verfolger, die Verfolger** — преследователь *(Kap. 7)*
+- **die Verfolgung aufnehmen** — пуститься в погоню *(Kap. 8)*
+- **die Vergangenheit** — прошлое, минувшее *(Kap. 4)*
+- **vergessen (vergaß, hat vergessen)** — забывать *(Kap. 2)*
+- **vergrößern** — расширять, увеличивать *(Kap. 6)*
+- **verhaften** — арестовать *(Kap. 7)*
+- **sich verheddern** — запутаться *(Kap. 9)*
+- **verheimlichen** — утаивать, скрывать *(Kap. 9)*
+- **verjagen** — разгонять, прогонять *(Kap. 3)*
+- **verkaufen** — продавать *(Kap. 2)*
+- **verlangen** — требовать *(Kap. 2)*
+- **die Verletzung, die Verletzungen** — увечье, травма *(Kap. 1)*
+- **verloren gehen** — погибнуть, пропасть *(Kap. 11)*
+- **vermerken** — отмечать, указывать *(Kap. 11)*
+- **vermuten** — предполагать *(Kap. 7)*
+- **vernichten** — уничтожать *(Kap. 4)*
+- **die Vernunft** — благоразумие, разум *(Kap. 2)*
+- **vernünftig** — разумный, дельный *(Kap. 3)*
+- **verrecken** — сдохнуть *(Kap. 8)*
+- **verrückt** — обезумевший, сумасшедший *(Kap. 2)*
+- **verschneit** — снежный, заснеженный *(Kap. 9)*
+- **verschwinden (verschwand, ist verschwunden)** — исчезнуть *(Kap. 1)*
+- **verschwitzt** — взмыленный, потный *(Kap. 5)*
+- **verschütten** — засыпать *(Kap. 11)*
+- **versehentlich** — нечаянно *(Kap. 7)*
+- **versiegen** — иссякать *(Kap. 10)*
+- **versinken in + Akk. (versank, ist versunken)** — погрузиться в *(Kap. 7)*
+- **versperren** — загораживать, преграждать *(Kap. 3)*
+- **der Verstand** — рассудок, разум *(Kap. 5)*
+- **sich verstecken vor + Dat.** — прятаться, спасаться от *(Kap. 4)*
+- **verteidigen** — защищать, заступаться *(Kap. 5)*
+- **verteilen** — распределять *(Kap. 2)*
+- **die Vertilgung** — истребление *(Kap. 11)*
+- **vertrauen + Dat.** — доверять *(Kap. 5)*
+- **die Verwaltungs- und Finanzabteilung** — административно-финансовый отдел (АФО) *(Kap. 10)*
+- **verwirren** — затуманивать, путать *(Kap. 5)*
+- **verwirrt** — растерянно *(Kap. 2)*
+- **verwundert** — в изумлении *(Kap. 2)*
+- **verzeihen (verzieh, hat verziehen)** — прощать *(Kap. 5)*
+- **sich verzerren** — перекоситься *(Kap. 8)*
+- **verzweifelt** — отчаянно, с надрывом *(Kap. 3)*
+- **verächtlich** — презрительно *(Kap. 3)*
+- **vielleicht** — может быть *(Kap. 2)*
+- **violett** — фиолетовый *(Kap. 3)*
+- **der Volkstanz, die Volkstänze** — народный танец *(Kap. 2)*
+- **voller Sorge** — с тревогой *(Kap. 3)*
+- **vor Gericht** — в суде *(Kap. 1)*
+- **der Vorarbeiter, die Vorarbeiter** — десятник, прораб *(Kap. 2)*
+- **vorbeifliegen (flog vorbei, ist vorbeigeflogen)** — пролетать мимо *(Kap. 2)*
+- **vordringen (drang vor, ist vorgedrungen)** — проникнуть *(Kap. 10)*
+- **der Vorfahr, die Vorfahren** — предок *(Kap. 6)*
+- **der Vorgang, die Vorgänge** — текущее дело (в канцелярии) *(Kap. 11)*
+- **der Vorhang, die Vorhänge** — портьера, занавес *(Kap. 6)*
+- **vorjährig** — прошлогодний *(Kap. 10)*
+- **vornehm** — фешенебельный, аристократичный *(Kap. 4)*
+- **der Vorrat, die Vorräte** — запас *(Kap. 7)*
+- **der Vorschlag, die Vorschläge** — предложение, проект *(Kap. 3)*
+- **vorschlagen (schlug vor, hat vorgeschlagen)** — предлагать *(Kap. 3)*
+- **vorsichtig** — осторожно *(Kap. 1)*
+- **vorsichtshalber** — на всякий случай *(Kap. 9)*
+- **der Vortrag, die Vorträge** — доклад *(Kap. 4)*
+- **vorwurfsvoll** — укоризненно *(Kap. 7)*
+- **vorzeitig** — преждевременно *(Kap. 10)*
+- **wackeln mit + Dat.** — вилять *(Kap. 2)*
+- **die Waffe, die Waffen** — оружие *(Kap. 6)*
+- **der Waggon, die Waggons** — вагон *(Kap. 1)*
+- **wahnsinnig** — безумно, невероятно *(Kap. 1)*
+- **der Wald, die Wälder** — лес *(Kap. 2)*
+- **der Wallach, die Wallache** — мерин *(Kap. 4)*
+- **die Wallfahrt, die Wallfahrten** — паломничество *(Kap. 7)*
+- **der Wanderer, die Wanderer** — путник *(Kap. 4)*
+- **die Ware, die Waren** — товар *(Kap. 6)*
+- **warnen** — предостерегать *(Kap. 5)*
+- **die Warnung, die Warnungen** — предупреждение *(Kap. 8)*
+- **wasserdicht** — непромокаемый *(Kap. 8)*
+- **weglaufen (lief weg, ist weggelaufen)** — убежать *(Kap. 5)*
+- **wegnehmen (nahm weg, hat weggenommen)** — отбирать *(Kap. 7)*
+- **die Weide, die Weiden** — пастбище *(Kap. 2)*
+- **die Weite, die Weiten** — простор *(Kap. 9)*
+- **der Weltuntergang** — конец света, светопреставление *(Kap. 3)*
+- **wenden (wandte, hat gewandt)** — отводить, поворачивать *(Kap. 7)*
+- **die Wendung, die Wendungen** — поворот *(Kap. 10)*
+- **wenigstens** — хотя бы *(Kap. 2)*
+- **sich werfen (warf, hat geworfen)** — бросаться *(Kap. 1)*
+- **werfen (warf, hat geworfen)** — бросать *(Kap. 2)*
+- **die Werkstatt, die Werkstätten** — мастерская *(Kap. 6)*
+- **wickeln** — заворачивать *(Kap. 7)*
+- **widerfahren (widerfuhr, ist widerfahren)** — случиться, приключиться *(Kap. 10)*
+- **widerlich** — отвратительный *(Kap. 7)*
+- **widernatürlich** — противоестественный *(Kap. 7)*
+- **widersprechen (widersprach, hat widersprochen)** — возражать *(Kap. 5)*
+- **wie weggeblasen** — как рукой сняло *(Kap. 10)*
+- **wiederholen** — повторять *(Kap. 1)*
+- **der Wikingerfürst, die Wikingerfürsten** — князь-варяг *(Kap. 6)*
+- **wild** — беспорядочно *(Kap. 8)*
+- **der Wink, die Winke** — намёк *(Kap. 6)*
+- **wippen** — покачивать *(Kap. 7)*
+- **der Wirbelwind, die Wirbelwinde** — вихрь *(Kap. 5)*
+- **der Wirrwarr** — замешательство, сумятица *(Kap. 7)*
+- **der Wirt, die Wirte** — хозяин (трактира) *(Kap. 9)*
+- **wischen** — смахивать, вытирать *(Kap. 1)*
+- **die Wohnung, die Wohnungen** — квартира *(Kap. 2)*
+- **der Wohnungsschlüssel, die Wohnungsschlüssel** — ключ от квартиры *(Kap. 2)*
+- **der Wolkenkratzer, die Wolkenkratzer** — небоскрёб *(Kap. 2)*
+- **der Wollstoff, die Wollstoffe** — шерстяная ткань, шевиот *(Kap. 2)*
+- **wunderbar** — чудный, чудесный *(Kap. 1)*
+- **wundern** — удивлять *(Kap. 6)*
+- **wundersam** — дивный, чудесный *(Kap. 10)*
+- **die Wurzel, die Wurzeln** — корень *(Kap. 9)*
+- **der Wächterpelz, die Wächterpelze** — сторожевой тулуп *(Kap. 8)*
+- **die Wäsche** — бельё *(Kap. 2)*
+- **wühlen** — копаться *(Kap. 7)*
+- **wüten** — свирепствовать *(Kap. 7)*
+- **wütend** — разозлённый *(Kap. 7)*
+- **die Zarenzeit** — царское время *(Kap. 3)*
+- **die Zarin, die Zarinnen** — царица *(Kap. 3)*
+- **der Zauber** — заклятие, чары *(Kap. 7)*
+- **das Zaumzeug** — упряжь *(Kap. 11)*
+- **der Zeichner, die Zeichner** — художник, рисовальщик *(Kap. 4)*
+- **der Zeigefinger, die Zeigefinger** — указательный палец *(Kap. 11)*
+- **der Zeitgenosse, die Zeitgenossen** — современник *(Kap. 9)*
+- **das Zelt, die Zelte** — палатка *(Kap. 9)*
+- **die Zentralheizung** — центральное (водяное) отопление *(Kap. 2)*
+- **das Zentrum** — центр *(Kap. 3)*
+- **zeremoniell** — церемонный *(Kap. 9)*
+- **zerren** — таскать, тащить *(Kap. 1)*
+- **zerschießen (zerschoss, hat zerschossen)** — прострелить *(Kap. 8)*
+- **zerschlagen (zerschlug, hat zerschlagen)** — разбить *(Kap. 7)*
+- **zertreten (zertrat, hat zertreten)** — раздавить ногами *(Kap. 7)*
+- **der Zettel, die Zettel** — записка *(Kap. 3)*
+- **das Ziegenleder** — шевро *(Kap. 11)*
+- **das Zinn** — олово *(Kap. 6)*
+- **zirkulieren** — циркулировать *(Kap. 2)*
+- **zittern** — дрожать *(Kap. 3)*
+- **zu Befehl!** — слушаюсь! *(Kap. 9)*
+- **zu Fuß** — пешком *(Kap. 1)*
+- **zucken** — сверкать, вспыхивать *(Kap. 3)*
+- **die Zuckerkrankheit** — сахарная болезнь *(Kap. 10)*
+- **zufrieden** — довольный *(Kap. 5)*
+- **zugrunde gehen** — погибать *(Kap. 1)*
+- **zuknallen** — захлопываться *(Kap. 3)*
+- **zukneifen (kniff zu, hat zugekniffen)** — жмуриться *(Kap. 6)*
+- **die Zukunft** — будущее *(Kap. 7)*
+- **zur Besinnung kommen** — спохватиться *(Kap. 11)*
+- **zur Not** — худо-бедно, на худой конец *(Kap. 10)*
+- **zurückkaufen** — выкупать *(Kap. 6)*
+- **zusammenbauen** — собирать, монтировать *(Kap. 2)*
+- **zusammenbrechen (brach zusammen, ist zusammengebrochen)** — рухнуть *(Kap. 3)*
+- **der Zusammenbruch, die Zusammenbrüche** — крах, крушение *(Kap. 1)*
+- **zusammenhanglos** — бессвязно *(Kap. 10)*
+- **der Zuschauer, die Zuschauer** — зритель *(Kap. 8)*
+- **zustimmend** — одобрительно *(Kap. 5)*
+- **die Zuständigkeit, die Zuständigkeiten** — функции, полномочия *(Kap. 10)*
+- **Zutritt verboten** — вход воспрещается *(Kap. 10)*
+- **zweifellos** — бесспорно, слов нет *(Kap. 5)*
+- **zweifeln an + Dat.** — сомневаться в *(Kap. 4)*
+- **zweistöckig** — двухэтажный *(Kap. 8)*
+- **zwirbeln** — крутить, подкручивать *(Kap. 3)*
+- **sich zwängen** — набиться, протиснуться *(Kap. 9)*
+- **zögern** — колебаться *(Kap. 1)*
+- **der Zügel, die Zügel** — вожжи, поводья *(Kap. 4)*
+- **zügeln** — сдерживать, придерживать *(Kap. 9)*
+- **ächzen** — стонать, кряхтеть *(Kap. 10)*
+- **ängstlich** — тревожно, боязливо *(Kap. 3)*
+- **die Ärgergasse** — Досадный переулок *(Kap. 4)*
+- **die Öffentlichkeit** — общественность *(Kap. 11)*
+- **über die Ufer treten (trat, ist getreten)** — выйти из берегов *(Kap. 3)*
+- **überfahren (überfuhr, hat überfahren)** — задавить, переехать *(Kap. 1)*
+- **der Überfall, die Überfälle** — налёт, грабёж *(Kap. 2)*
+- **überflüssig** — ненужный, лишний *(Kap. 1)*
+- **übergeschnappt** — обезумевший, спятивший *(Kap. 10)*
+- **überhaupt nicht** — вовсе не, совсем не *(Kap. 3)*
+- **die Überlegung, die Überlegungen** — соображение *(Kap. 8)*
+- **übernatürlich** — сверхъестественный *(Kap. 10)*
+- **überraschen** — удивлять, заставать врасплох *(Kap. 5)*
+- **überreden** — уговаривать, убеждать *(Kap. 3)*
+- **überreichen** — вручать, преподносить *(Kap. 11)*
+- **überschwemmen** — наводнять *(Kap. 11)*
+- **überwuchern** — зарастать *(Kap. 9)*
+- **die Überzeugung** — убеждение *(Kap. 10)*
+- **üppig** — пышный *(Kap. 9)*
