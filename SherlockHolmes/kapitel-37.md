@@ -468,6 +468,10 @@ Nun, Ihr gesunder Verstand sagt Ihnen sicher, welche Schritte ich als Nächstes 
 
 — Einem Tag, der England vor einem großen öffentlichen Skandal bewahrt hat, — sagte der Bankier und stand auf. — Sir, ich finde keine Worte, um Ihnen zu danken. Aber Sie werden sehen, dass ich nicht undankbar bin für das, was Sie getan haben. Ihr Können hat wirklich alles <abbr title="übertreffen (übertraf, hat übertroffen) — превзойти">übertroffen</abbr>, was ich davon gehört hatte. Und jetzt muss ich zu meinem lieben Jungen eilen und ihn für das Unrecht, das ich ihm getan habe, um Verzeihung bitten. Was Sie mir über die arme Mary erzählen, geht mir mitten ins Herz. Nicht einmal Ihr Können kann mir sagen, wo sie jetzt ist.
 
+![Sidney Paget: Holmes hält Sir George Burnwell eine Pistole an den Kopf](https://commons.wikimedia.org/wiki/Special:FilePath/Sidney_Paget_-_The_Adventure_of_the_Beryl_Coronet_01.jpg?width=700)
+
+*Sidney Paget, «I Clapped the Pistol to His Head», Illustration zu «The Adventure of the Beryl Coronet» (1892; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Sidney_Paget_-_The_Adventure_of_the_Beryl_Coronet_01.jpg)).*
+
 — Ich glaube, wir können ruhig sagen, — antwortete Holmes, — dass sie dort ist, wo Sir George Burnwell ist. Und ebenso sicher ist, dass ihre Sünden, welche es auch sein mögen, bald eine mehr als ausreichende Strafe finden werden.
 
 ---

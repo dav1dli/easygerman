@@ -36,6 +36,10 @@ Als wir oben um die Ecke der Treppe bogen, waren wir mit Sir Henry Baskerville s
 
 — Ja, Sir, und ich will ihn finden.
 
+![Sidney Paget: Holmes hält Sir Henrys alten Stiefel](https://commons.wikimedia.org/wiki/Special:FilePath/Houn-16_-_Hound_of_Baskervilles,_page_85.jpg?width=700)
+
+*Sidney Paget, «He Held an Old and Dusty Boot in One of His Hands», Illustration zu «The Hound of the Baskervilles» (1901; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Houn-16_-_Hound_of_Baskervilles,_page_85.jpg)).*
+
 — Aber Sie sagten doch, es sei ein neuer brauner Stiefel?
 
 — Das war er auch, Sir. Und jetzt ist es ein alter schwarzer.

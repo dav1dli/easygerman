@@ -132,6 +132,10 @@ Unser Besucher sah ihn erstaunt an. Man hatte ihm diesen Mann sicher als den sch
 
 Der Mann sprang vom Stuhl auf und lief in großer Aufregung im Zimmer auf und ab. Dann riss er sich verzweifelt die Maske vom Gesicht und warf sie auf den Boden.
 
+![Sidney Paget: Der König reißt sich die Maske vom Gesicht](https://commons.wikimedia.org/wiki/Special:FilePath/The_Strand_Magazine_vol._2,_no._7,_pg._65_-_He_tore_the_mask_from_his_face.png?width=700)
+
+*Sidney Paget, «He Tore the Mask from His Face», Illustration zu «A Scandal in Bohemia» (1891; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:The_Strand_Magazine_vol._2,_no._7,_pg._65_-_He_tore_the_mask_from_his_face.png)).*
+
 — Sie haben recht, — rief er. — Ich bin der König. Warum soll ich es verbergen?
 
 — Ja, warum? — murmelte Holmes. — Eure Majestät hatten noch kein Wort gesagt, da wusste ich schon: Vor mir steht Wilhelm Gottsreich Sigismond von Ormstein, <abbr title="der Großherzog, die Großherzöge — великий герцог">Großherzog</abbr> von Cassel-Felstein und erblicher König von Böhmen.

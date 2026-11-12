@@ -10,6 +10,10 @@ Man hat uns gesagt: Wir müssen am Donnerstag vor dem Haftrichter erscheinen. Ab
 
 — Einfach! — rufe ich.
 
+![Richard Gutschmidt: Holmes und Watson besprechen den Fall](https://commons.wikimedia.org/wiki/Special:FilePath/SH_STUDY-24.png?width=600)
+
+*Richard Gutschmidt, Illustration zu «Eine Studie in Scharlachrot» ([gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:SH_STUDY-24.png)).*
+
 — Na ja, anders kann man ihn wirklich nicht nennen, — sagt Sherlock Holmes und lächelt über mein Erstaunen. — Der Beweis ist: Ich hatte keine Hilfe, nur ein paar ganz normale Schlussfolgerungen. Und trotzdem hatte ich den Verbrecher nach drei Tagen.
 
 — Das stimmt, — sage ich.

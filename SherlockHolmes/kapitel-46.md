@@ -138,6 +138,10 @@ Sherlock Holmes hatte dieser langen Erzählung so aufmerksam zugehört, dass ich
 
 Doch eine seltsame Störung ließ uns stehen bleiben. Oben ging plötzlich das Licht aus, und aus der Dunkelheit kam eine dünne, zittrige Stimme.
 
+![Sidney Paget: Holmes und Trevelyan treffen auf Blessingtons Eindringlinge](https://commons.wikimedia.org/wiki/Special:FilePath/The_Resident_Patient_01,_The_Strand_Magazine,_Vol_6.png?width=700)
+
+*Sidney Paget, Illustration zu «The Resident Patient» (1893; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:The_Resident_Patient_01,_The_Strand_Magazine,_Vol_6.png)).*
+
 — Ich habe eine Pistole, – rief sie. – Ich gebe Ihnen mein Wort, dass ich schieße, wenn Sie näher kommen.
 
 — Das geht jetzt wirklich zu weit, Mr. Blessington, – rief Dr. Trevelyan.

@@ -4,6 +4,10 @@ Unser Frühstückstisch wurde früh abgeräumt, und Holmes erwartete im Morgenma
 
 — Das ist Sir Henry Baskerville, — sagte Dr. Mortimer.
 
+![Sidney Paget: Sir Henry Baskerville](https://commons.wikimedia.org/wiki/Special:FilePath/Houn-11_-_Sir_Henry_Baskerville_(Hound_of_Baskervilles,_page_58).jpg?width=600)
+
+*Sidney Paget, «Sir Henry Baskerville», Illustration zu «The Hound of the Baskervilles» (1901; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Houn-11_-_Sir_Henry_Baskerville_(Hound_of_Baskervilles,_page_58).jpg)).*
+
 — Ja, genau, — sagte er, — und das Seltsame ist, Mr. Sherlock Holmes: Hätte mein Freund hier nicht vorgeschlagen, heute Morgen zu Ihnen zu gehen, so wäre ich von mir aus gekommen. Wie ich höre, lösen Sie kleine Rätsel, und ich habe heute Morgen eins bekommen, das mehr Nachdenken braucht, als ich ihm geben kann.
 
 — Bitte nehmen Sie Platz, Sir Henry. Verstehe ich Sie richtig, dass Sie selbst seit Ihrer Ankunft in London etwas Bemerkenswertes erlebt haben?

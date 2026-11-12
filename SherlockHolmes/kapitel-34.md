@@ -416,6 +416,10 @@ Miss Stoner und ich starrten ihn erstaunt an.
 
 — Nein, das glaube ich nicht. Ich glaube, es gab wahrscheinlich eine <abbr title="greifbar — осязаемый, реальный">greifbarere</abbr> Ursache. Und jetzt, Miss Stoner, müssen wir gehen. Wenn Dr. Roylott zurückkäme und uns sähe, wäre unsere Reise umsonst. Leben Sie wohl, und seien Sie tapfer. Wenn Sie tun, was ich Ihnen gesagt habe, können Sie sicher sein: Wir vertreiben die Gefahren, die Ihnen drohen, sehr bald.
 
+![Sidney Paget: Holmes verabschiedet Helen Stoner](https://commons.wikimedia.org/wiki/Special:FilePath/Sidney_Paget_-_The_Adventure_of_the_Speckled_Band_01.jpg?width=700)
+
+*Sidney Paget, «Good-bye, and Be Brave», Illustration zu «The Adventure of the Speckled Band» (1892; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Sidney_Paget_-_The_Adventure_of_the_Speckled_Band_01.jpg)).*
+
 Sherlock Holmes und ich bekamen ohne Probleme ein Schlafzimmer und ein Wohnzimmer in der «Krone». Sie lagen im oberen Stock. Von unserem Fenster konnten wir das Tor zur <abbr title="die Allee, die Alleen — аллея">Allee</abbr> und den bewohnten Flügel von Stoke Moran sehen. In der Dämmerung sahen wir Dr. Grimesby Roylott vorbeifahren. Seine riesige Gestalt ragte neben der kleinen Figur des Jungen auf, der den Wagen fuhr. Der Junge hatte ein bisschen Mühe, das schwere eiserne Tor zu öffnen. Wir hörten das heisere <abbr title="das Gebrüll — рёв">Gebrüll</abbr> des Doktors und sahen, wie wütend er die Fäuste gegen ihn schüttelte. Der Wagen fuhr weiter. Ein paar Minuten später sahen wir zwischen den Bäumen plötzlich ein Licht. Jemand hatte in einem der Wohnzimmer die Lampe angezündet.
 
 — Wissen Sie, Watson, — sagte Holmes, als wir in der zunehmenden Dunkelheit zusammensaßen, — ich habe wirklich Bedenken, Sie heute Nacht mitzunehmen. Es ist eindeutig gefährlich.

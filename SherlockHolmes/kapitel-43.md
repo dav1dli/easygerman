@@ -62,6 +62,10 @@ Sie können sich vorstellen, Watson, wie gespannt ich zuhörte. Die Chance, nach
 
 Reginald Musgrave setzte sich mir gegenüber und zündete die Zigarette an, die ich ihm hingeschoben hatte.
 
+![Sidney Paget: Holmes erinnert sich an das Musgrave-Ritual](https://commons.wikimedia.org/wiki/Special:FilePath/The_Musgrave_Ritual_02,_The_Strand_Magazine,_Vol_5.jpg?width=700)
+
+*Sidney Paget, Illustration zu «The Musgrave Ritual» (1893; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:The_Musgrave_Ritual_02,_The_Strand_Magazine,_Vol_5.jpg)).*
+
 — Sie müssen wissen, — sagte er, — dass ich zwar Junggeselle bin, aber in Hurlstone trotzdem viel <abbr title="das Dienstpersonal — прислуга, штат слуг">Dienstpersonal</abbr> brauche. Es ist ein altes, <abbr title="verwinkelt — запутанный, с множеством закоулков">verwinkeltes</abbr> Haus, und es macht viel Arbeit. Außerdem habe ich ein Jagdrevier, und in den <abbr title="der Fasanenmonat, die Fasanenmonate — сезон охоты на фазанов">Fasanenmonaten</abbr> habe ich meistens Gäste im Haus. Da darf ich nicht zu wenig Leute haben. Insgesamt sind es acht Dienstmädchen, die Köchin, der Butler, zwei Diener und ein Junge. Für den Garten und die Ställe gibt es natürlich eigene Leute.
 
 Von diesen Dienern war Brunton, der Butler, am längsten bei uns. Er war ein junger <abbr title="der Lehrer, die Lehrer — учитель">Lehrer</abbr> ohne Stelle, als mein Vater ihn einstellte. Aber er hatte viel Energie und Charakter, und bald war er im Haus <abbr title="unentbehrlich — незаменимый">unentbehrlich</abbr>. Er ist ein großer, gut aussehender Mann mit einer prächtigen Stirn. Er ist schon zwanzig Jahre bei uns, aber er kann nicht älter als vierzig sein. Mit seinem Aussehen und seinen außerordentlichen Begabungen – er spricht mehrere Sprachen und spielt fast jedes <abbr title="das Musikinstrument, die Musikinstrumente — музыкальный инструмент">Musikinstrument</abbr> – ist es erstaunlich, dass er so lange mit einer solchen Stellung zufrieden war. Aber ich glaube, er hatte es bequem, und ihm fehlte die Energie, etwas zu ändern. Jeder, der uns besucht, erinnert sich an den Butler von Hurlstone.

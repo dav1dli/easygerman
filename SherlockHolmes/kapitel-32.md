@@ -64,6 +64,10 @@ Ich ging durch den schmalen Gang zwischen den zwei Reihen von Schläfern. Ich hi
 
 Ich hörte die Worte ganz deutlich. Ich sah nach unten. Sie konnten nur von dem alten Mann neben mir kommen. Aber er saß da, so versunken wie vorher: sehr dünn, sehr runzlig, vom Alter gebeugt. Eine Opiumpfeife hing zwischen seinen Knien, als wäre sie ihm vor Schwäche aus den Fingern gefallen. Ich ging zwei Schritte weiter und sah zurück. Ich musste mich sehr beherrschen, um nicht laut vor Staunen zu rufen. Er hatte den anderen den Rücken <abbr title="zudrehen — поворачивать (спиной)">zugedreht</abbr>, sodass nur ich ihn sehen konnte. Sein Körper war plötzlich kräftiger, seine Falten waren weg, und die trüben Augen hatten wieder ihr Feuer. Da saß am Feuer und grinste über mein Erstaunen – niemand anderes als Sherlock Holmes. Er gab mir ein kleines Zeichen, näher zu kommen. Und sofort, als er sein Gesicht wieder halb zu den anderen drehte, wurde er wieder ein <abbr title="tatterig — трясущийся, дряхлый">tatteriger</abbr> alter Mann mit <abbr title="schlaff — вялый, обвисший">schlaffen</abbr> Lippen.
 
+![Sidney Paget: Holmes als Opiumraucher im Versteck](https://commons.wikimedia.org/wiki/Special:FilePath/Sherlock_Holmes_-_The_Man_with_the_Twisted_Lip.jpg?width=700)
+
+*Sidney Paget, «The Pipe Was Still Between His Lips», Illustration zu «The Man with the Twisted Lip» (1891; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Sherlock_Holmes_-_The_Man_with_the_Twisted_Lip.jpg)).*
+
 — Holmes! — flüsterte ich. — Was um Himmels willen machen Sie in dieser Höhle?
 
 — So leise wie möglich, — antwortete er. — Ich habe sehr gute Ohren. Bitte seien Sie so freundlich und schaffen Sie Ihren <abbr title="versoffen — спившийся, пьяный">versoffenen</abbr> Freund weg. Dann würde ich sehr gern ein bisschen mit Ihnen sprechen.

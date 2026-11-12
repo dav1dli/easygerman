@@ -33,6 +33,10 @@ heute Nacht ist in Lauriston Gardens Nummer 3, an der Brixton Road, etwas Schlim
 Mit <abbr title="ergeben — преданный">ergebenen</abbr> Grüßen
 Tobias Gregson»
 
+![Richard Gutschmidt: Drebbers Leiche wird im leeren Haus entdeckt](https://commons.wikimedia.org/wiki/Special:FilePath/SH_STUDY-05.png?width=600)
+
+*Richard Gutschmidt, Illustration zu «Eine Studie in Scharlachrot» ([gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:SH_STUDY-05.png)).*
+
 — Gregson ist der <abbr title="klug — умный">Klügste</abbr> von Scotland Yard, — sagt mein Freund. — Er und Lestrade sind die Besten von einer schlechten <abbr title="die Bande, die Banden — шайка, банда">Bande</abbr>. Beide sind schnell und <abbr title="energisch — энергичный">energisch</abbr>, aber sie denken nur in alten <abbr title="die Bahn, die Bahnen — колея, путь">Bahnen</abbr>, <abbr title="entsetzlich — ужасно">entsetzlich</abbr> <abbr title="konventionell — шаблонный, традиционный">konventionell</abbr>. Und sie <abbr title="hassen — ненавидеть">hassen</abbr> sich gegenseitig. Sie sind so <abbr title="eifersüchtig — ревнивый">eifersüchtig</abbr> wie zwei <abbr title="die Schönheitskönigin, die Schönheitsköniginnen — королева красоты">Schönheitsköniginnen</abbr>. Wenn beide an diesem Fall arbeiten, wird es lustig.
 
 Ich <abbr title="sich wundern über + Akk. — удивляться">wundere mich</abbr>, wie ruhig er <abbr title="plaudern — болтать">plaudert</abbr>.

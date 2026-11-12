@@ -90,6 +90,10 @@ Es war schon Abend, als wir die kleine Stadt Tavistock erreichten. Sie liegt wie
 
 — Ich freue mich sehr, dass Sie gekommen sind, Mr. Holmes, — sagte der Oberst. — Der Inspektor hier hat alles getan, was man nur tun konnte. Aber ich will <abbr title="nichts unversucht lassen — не упустить ни одной возможности">nichts unversucht lassen</abbr>, um den armen Straker zu rächen und mein Pferd wiederzubekommen.
 
+![Sidney Paget: Holmes kommt in Tavistock an](https://commons.wikimedia.org/wiki/Special:FilePath/The_Adventure_of_Silver_Blaze_04.jpg?width=600)
+
+*Sidney Paget, «I Am Delighted That You Have Come Down, Mr. Holmes», Illustration zu «Silver Blaze» (1892; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:The_Adventure_of_Silver_Blaze_04.jpg)).*
+
 — Gibt es etwas Neues? — fragte Holmes.
 
 — Leider sind wir kaum weitergekommen, — sagte der Inspektor. — Draußen steht ein offener Wagen. Sie möchten den Ort sicher sehen, bevor es dunkel wird. Wir können während der Fahrt über alles sprechen.

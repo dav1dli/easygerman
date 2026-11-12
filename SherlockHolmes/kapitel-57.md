@@ -1,5 +1,9 @@
 ## Kapitel 8: Dr. Watsons erster Bericht
 
+![Sidney Paget: Dr. Mortimer zeigt Holmes den Ort der alten Legende](https://commons.wikimedia.org/wiki/Special:FilePath/Houn-27_-_Legend_of_the_wicked_Hugo_(Hound_of_Baskervilles,_page_160).jpg?width=700)
+
+*Sidney Paget, «He Took Us to Show Us the Spot», Illustration zu «The Hound of the Baskervilles» (1901; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Houn-27_-_Legend_of_the_wicked_Hugo_(Hound_of_Baskervilles,_page_160).jpg)).*
+
 Von hier an will ich den Lauf der Ereignisse <abbr title="wiedergeben (gab wieder, hat wiedergegeben) — передавать, воспроизводить">wiedergeben</abbr>, indem ich meine eigenen Briefe an Mr. Sherlock Holmes abschreibe, die vor mir auf dem Tisch liegen. Eine Seite fehlt, aber sonst sind sie genau so, wie ich sie geschrieben habe, und sie zeigen meine Gefühle und meine Verdachtsmomente jenes Augenblicks genauer, als mein Gedächtnis es könnte – so klar es sich auch an diese tragischen Ereignisse erinnert.
 
 *Baskerville Hall, 13. Oktober.*

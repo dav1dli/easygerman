@@ -76,6 +76,10 @@ Die alte <abbr title="die Hexe, die Hexen — ведьма, карга">Hexe</ab
 
 — Deswegen bin ich gekommen, meine guten Herren, — sagt sie und macht noch einen Knicks. — Ein goldener Ehering in der Brixton Road. Der gehört meiner Tochter Sally. Die hat erst vor einem Jahr geheiratet. Ihr Mann ist <abbr title="der Steward, die Stewards — стюард">Steward</abbr> auf einem Schiff von der Union-Linie. Was der sagt, wenn er nach Hause kommt, und sie hat ihren Ring nicht mehr – das will ich mir gar nicht vorstellen! Er ist sowieso schnell <abbr title="wütend — злой, разъярённый">wütend</abbr>, und erst recht, wenn er getrunken hat. Bitte sehr, sie ist gestern Abend in den <abbr title="der Zirkus, die Zirkusse — цирк">Zirkus</abbr> gegangen, zusammen mit …
 
+![Richard Gutschmidt: Holmes’ alte Besucherin zeigt auf die Anzeige](https://commons.wikimedia.org/wiki/Special:FilePath/SH_STUDY-09.png?width=600)
+
+*Richard Gutschmidt, Illustration zu «Eine Studie in Scharlachrot» ([gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:SH_STUDY-09.png)).*
+
 — Ist das ihr Ring? — frage ich.
 
 — Gott sei Dank! — ruft die alte Frau. — Heute Abend ist Sally eine glückliche Frau. Das ist der Ring.

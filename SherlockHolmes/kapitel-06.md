@@ -22,6 +22,10 @@ Sherlock Holmes und ich lesen diese Artikel zusammen beim Frühstück. Sie <abbr
 
 — <abbr title="stillstehen (stand still, hat stillgestanden) — стоять смирно">Stillgestanden</abbr>! — ruft Holmes scharf. Und die sechs kleinen <abbr title="der Gauner, die Gauner — плут, жулик">Gauner</abbr> stehen in einer Reihe wie sechs <abbr title="zweifelhaft — сомнительный">zweifelhafte</abbr> kleine <abbr title="die Statue, die Statuen — статуя">Statuen</abbr>. — In Zukunft kommt nur Wiggins herauf und <abbr title="melden — докладывать">meldet</abbr>. Die anderen warten auf der Straße. Habt ihr es gefunden, Wiggins?
 
+![Richard Gutschmidt: Die Baker-Street-Jungen bei Holmes](https://commons.wikimedia.org/wiki/Special:FilePath/SH_STUDY-10.png?width=600)
+
+*Richard Gutschmidt, «Baker Street Irregulars», Illustration zu «Eine Studie in Scharlachrot» ([gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:SH_STUDY-10.png)).*
+
 — Nee, Sir, ham wir nich', — sagt einer von den Jungen.
 
 — Das habe ich auch nicht erwartet. Ihr müsst weitersuchen, bis ihr es findet. Hier ist euer <abbr title="der Lohn, die Löhne — плата, жалованье">Lohn</abbr>.

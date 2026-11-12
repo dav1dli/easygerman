@@ -124,6 +124,10 @@ Dann wurde Mr. James McCarthy, der einzige Sohn des <abbr title="der/die Verstor
 
 — Nein. Ich hatte nur das Gefühl, dass da etwas war.
 
+![Sidney Paget: Holmes am Tatort im Boscombe Valley](https://commons.wikimedia.org/wiki/Special:FilePath/Sidney_Paget_-_The_Boscombe_Valley_Mystery_01.jpg?width=700)
+
+*Sidney Paget, Illustration zu «The Boscombe Valley Mystery» (1892; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Sidney_Paget_-_The_Boscombe_Valley_Mystery_01.jpg)).*
+
 — Wie weit von der Leiche?
 
 — Etwa zehn Meter.

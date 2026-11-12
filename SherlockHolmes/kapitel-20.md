@@ -52,6 +52,10 @@ Er hält die Lampe zum Boden. Und zum zweiten Mal in dieser Nacht sehe ich auf s
 
 — Holmes, — flüstere ich, — ein Kind hat diese grausige Tat begangen.
 
+![F. H. Townsend: Holmes erkennt, dass ein Kind die Tat begangen hat](https://commons.wikimedia.org/wiki/Special:FilePath/Sign-t1.jpg?width=600)
+
+*F. H. Townsend, Illustration zu «The Sign of Four» (1903; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Sign-t1.jpg)).*
+
 Er hat sich sofort wieder <abbr title="sich im Griff haben — владеть собой">im Griff</abbr>.
 
 — Einen Moment war ich verblüfft, — sagt er. — Aber die Sache ist ganz natürlich. Mein Gedächtnis hat mich im Stich gelassen. Sonst konnte ich das <abbr title="vorhersagen — предсказывать">vorhersagen</abbr>. Hier gibt es nichts mehr zu lernen. Gehen wir hinunter.

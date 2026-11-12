@@ -188,6 +188,10 @@ Er schlurfte aus dem Zimmer, und eine halbe Stunde später verließ er das Haus.
 
 — Auf eine ganz seltsame Weise. Gestern Abend kam ein Brief für meinen Vater mit dem Poststempel von Fordingham. Mein Vater las ihn, schlug beide Hände an den Kopf und rannte in kleinen Kreisen durch das Zimmer wie ein Mensch, der den Verstand verloren hat. Endlich brachte ich ihn aufs Sofa. Da waren sein Mund und seine Augenlider auf einer Seite ganz <abbr title="verzogen — перекошенный">verzogen</abbr>. Ich sah, dass er einen Schlaganfall hatte. Dr. Fordham kam sofort. Wir brachten ihn ins Bett. Aber die Lähmung hat sich <abbr title="sich ausbreiten — распространяться">ausgebreitet</abbr>, er ist nicht wieder zu Bewusstsein gekommen, und ich glaube kaum, dass wir ihn noch lebend antreffen.
 
+![Sidney Paget: Victor Trevor beugt sich zu seinem kranken Vater](https://commons.wikimedia.org/wiki/Special:FilePath/The_Adventure_of_the_Gloria_Scott_01.jpg?width=700)
+
+*Sidney Paget, Illustration zu «The Gloria Scott» (1893; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:The_Adventure_of_the_Gloria_Scott_01.jpg)).*
+
 — Du erschreckst mich, Trevor! — rief ich. — Was stand denn in diesem Brief, dass er so etwas Schreckliches <abbr title="bewirken — вызывать, производить">bewirken</abbr> konnte?
 
 — Nichts. Das ist ja das Unerklärliche. Die Nachricht war <abbr title="albern — глупый, нелепый">albern</abbr> und <abbr title="belanglos — незначительный, пустяковый">belanglos</abbr>. Ah, mein Gott, es ist so, wie ich befürchtet habe!

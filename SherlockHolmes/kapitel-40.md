@@ -316,6 +316,10 @@ Sie faltete die Hände und wartete auf eine Antwort.
 
 Es dauerte lange zehn Minuten, bis Grant Munro das Schweigen brach. Und seine Antwort war eine, an die ich gern zurückdenke. Er hob das kleine Kind hoch und küsste es. Dann, mit dem Kind noch auf dem Arm, reichte er seiner Frau die andere Hand und drehte sich zur Tür.
 
+![Sidney Paget: Grant Munro hebt das kleine Mädchen hoch](https://commons.wikimedia.org/wiki/Special:FilePath/Paget_Holmes_Yellow_Face_child.jpg?width=700)
+
+*Sidney Paget, «He Lifted the Little Child», Illustration zu «The Yellow Face» (1893; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Paget_Holmes_Yellow_Face_child.jpg)).*
+
 — Wir können zu Hause bequemer darüber sprechen, — sagte er. — Ich bin kein sehr guter Mensch, Effie. Aber ich glaube, ich bin ein besserer, als du gedacht hast.
 
 Holmes und ich folgten ihnen den Feldweg hinunter. Als wir herauskamen, zupfte mein Freund mich am Ärmel.

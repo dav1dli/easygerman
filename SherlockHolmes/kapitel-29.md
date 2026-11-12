@@ -32,6 +32,10 @@ Er war aufgestanden und stand zwischen den Vorhängen. Er sah hinunter auf die g
 
 In diesem Moment klopfte es. Der <abbr title="der Page, die Pagen — мальчик-слуга, паж">Page</abbr> kam herein und meldete Miss Mary Sutherland. Die Dame stand hinter seiner kleinen schwarzen Figur wie ein großes Handelsschiff mit allen Segeln hinter einem winzigen <abbr title="das Lotsenboot, die Lotsenboote — лоцманский катер">Lotsenboot</abbr>. Sherlock Holmes begrüßte sie mit seiner lockeren <abbr title="die Höflichkeit — вежливость">Höflichkeit</abbr>. Er schloss die Tür und bot ihr mit einer Verbeugung einen Sessel an. Dann musterte er sie genau und doch wie abwesend, so wie nur er es konnte.
 
+![Sidney Paget: Holmes begrüßt Miss Mary Sutherland](https://commons.wikimedia.org/wiki/Special:FilePath/Sidney_Paget_-_A_Case_of_Identity_01.jpg?width=700)
+
+*Sidney Paget, «Sherlock Holmes Welcomed Her», Illustration zu «A Case of Identity» (1892; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Sidney_Paget_-_A_Case_of_Identity_01.jpg)).*
+
 — Finden Sie nicht, — sagte er, — dass es mit Ihrer <abbr title="die Kurzsichtigkeit — близорукость">Kurzsichtigkeit</abbr> etwas <abbr title="anstrengend — утомительный">anstrengend</abbr> ist, so viel auf der <abbr title="die Schreibmaschine, die Schreibmaschinen — пишущая машинка">Schreibmaschine</abbr> zu schreiben?
 
 — Am Anfang schon, — antwortete sie. — Aber jetzt weiß ich, wo die Buchstaben sind, ohne hinzusehen.
