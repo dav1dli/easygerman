@@ -9,6 +9,10 @@
 
 Mr. Sherlock Holmes, der morgens gewöhnlich sehr spät aufstand – ausgenommen an jenen gar nicht so seltenen Tagen, an denen er die ganze Nacht wach geblieben war –, saß am Frühstückstisch. Ich stand auf dem <abbr title="der Kaminvorleger, die Kaminvorleger — коврик перед камином">Kaminvorleger</abbr> und hob den Spazierstock auf, den unser Besucher am Abend zuvor liegen gelassen hatte. Es war ein schönes, dickes Stück Holz mit einem <abbr title="knollig — шишковатый, с набалдашником">knolligen</abbr> Griff, von der Art, die man einen «Penang-Anwalt» nennt. Gleich unter dem Griff lag ein breiter silberner Ring, fast einen Zoll breit. «Für James Mortimer, M.R.C.S., von seinen Freunden vom C.C.H.» war darauf eingraviert, dazu die Jahreszahl «1884». Es war genau ein solcher Stock, wie ihn der altmodische <abbr title="der Hausarzt, die Hausärzte — семейный врач">Hausarzt</abbr> früher zu tragen pflegte – würdevoll, solide und <abbr title="vertrauenerweckend — внушающий доверие">vertrauenerweckend</abbr>.
 
+![Sidney Paget: Holmes untersucht Dr. Mortimers Stock](https://commons.wikimedia.org/wiki/Special:FilePath/Houn-01.jpg?width=600)
+
+*Sidney Paget, «He Looked It Over Again with a Convex Lens», Illustration zu «The Hound of the Baskervilles» (1901; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Houn-01.jpg)).*
+
 — Nun, Watson, was <abbr title="halten von + Dat. (hielt, hat gehalten) — думать о чём-то, какого мнения">halten Sie davon</abbr>?
 
 Holmes saß mit dem Rücken zu mir, und ich hatte ihm kein Zeichen gegeben, womit ich beschäftigt war.

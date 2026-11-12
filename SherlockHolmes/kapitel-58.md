@@ -260,6 +260,10 @@ Langsam stolperten wir durch die Dunkelheit, um uns die schwarzen Umrisse der ze
 
 — Was sollen wir jetzt tun? — flüsterte Sir Henry.
 
+![Sidney Paget: Ein böses gelbes Gesicht erscheint über den Felsen](https://commons.wikimedia.org/wiki/Special:FilePath/Houn-34_-_Hound_of_Baskervilles,_page_204.jpg?width=700)
+
+*Sidney Paget, «Over the Rocks Was Thrust Out an Evil Yellow Face», Illustration zu «The Hound of the Baskervilles» (1901; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Houn-34_-_Hound_of_Baskervilles,_page_204.jpg)).*
+
 — Hier warten. Er muss in der Nähe seines Lichts sein. Sehen wir, ob wir einen Blick auf ihn erhaschen können.
 
 Kaum waren die Worte aus meinem Mund, da sahen wir ihn beide. Über den Felsen, in deren Spalte die Kerze brannte, schob sich ein böses gelbes Gesicht, ein schreckliches Tiergesicht, ganz zerfurcht und <abbr title="gezeichnet — отмеченный">gezeichnet</abbr> von niederträchtigen Leidenschaften. Mit Schlamm <abbr title="beschmiert — перепачканный">beschmiert</abbr>, mit <abbr title="struppig — всклокоченный, щетинистый">struppigem</abbr> Bart und verfilztem Haar, hätte es gut einem jener alten <abbr title="der/die Wilde, die Wilden — дикарь">Wilden</abbr> gehören können, die in den Höhlen an den Hängen gewohnt hatten. Das Licht unter ihm spiegelte sich in seinen kleinen, verschlagenen Augen, die wild nach rechts und links durch die Dunkelheit spähten wie ein listiges und wildes Tier, das die Schritte der Jäger gehört hat.

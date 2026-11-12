@@ -12,6 +12,10 @@ Man erfährt mehr über diese Organisation. Aber dadurch wird die Angst nicht kl
 
 An einem schönen Morgen will John Ferrier gerade zu seinen Weizenfeldern gehen. Da hört er, wie die Klinke am Tor klickt. Er sieht aus dem Fenster. Ein kräftiger Mann mit <abbr title="rotblond — рыжеватый">rotblonden</abbr> Haaren, nicht mehr jung, kommt den Weg herauf. Ferrier bekommt einen großen Schreck. Denn das ist niemand anders als der große Brigham Young selbst. Voll Angst – denn so ein Besuch bedeutet nichts Gutes – läuft Ferrier zur Tür und begrüßt den Führer von den Mormonen. Aber Young grüßt nur kalt zurück. Mit strengem Gesicht folgt er ihm ins Wohnzimmer.
 
+![Richard Gutschmidt: Brigham Young besucht John Ferrier](https://commons.wikimedia.org/wiki/Special:FilePath/SH_STUDY-22.png?width=600)
+
+*Richard Gutschmidt, Illustration zu «Eine Studie in Scharlachrot» ([gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:SH_STUDY-22.png)).*
+
 — Bruder Ferrier, — sagt er. Er setzt sich und <abbr title="mustern — окидывать взглядом, разглядывать">mustert</abbr> den Bauern scharf unter seinen hellen <abbr title="die Wimper, die Wimpern — ресница">Wimpern</abbr> hervor. — Die wahren Gläubigen waren gute Freunde für dich. Wir haben dich in der Wüste <abbr title="auflesen (las auf, hat aufgelesen) — подобрать">aufgelesen</abbr>, als du fast verhungert bist. Wir haben unser Essen mit dir geteilt. Wir haben dich sicher ins Auserwählte Tal gebracht. Wir haben dir viel Land gegeben. Unter unserem <abbr title="der Schutz — защита">Schutz</abbr> bist du reich geworden. Ist es nicht so?
 
 — Es ist so, — antwortet John Ferrier.

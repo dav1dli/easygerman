@@ -200,6 +200,10 @@ Er hatte einen Schrei ausgestoßen und sich über den Körper gebeugt. Jetzt tan
 
 — Es ist nicht der Baronet – es ist – nun, es ist mein Nachbar, der Sträfling!
 
+![Sidney Paget: Selden, der entflohene Sträfling](https://commons.wikimedia.org/wiki/Special:FilePath/Houn-33.jpg?width=600)
+
+*Sidney Paget, «The Escaped Convict, Sir», Illustration zu «The Hound of the Baskervilles» (1901; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Houn-33.jpg)).*
+
 Mit <abbr title="fieberhaft — лихорадочный">fieberhafter</abbr> Eile hatten wir den Körper umgedreht, und dieser triefende Bart zeigte hinauf zum kalten, klaren Mond. Über die <abbr title="vorspringend — выступающий, нависающий">vorspringende</abbr> Stirn, die tief liegenden tierischen Augen konnte es keinen Zweifel geben. Es war tatsächlich dasselbe Gesicht, das mich im Kerzenlicht über den Felsen hinweg angestarrt hatte – das Gesicht Seldens, des Verbrechers.
 
 Da war mir mit einem Schlag alles klar. Ich erinnerte mich, wie der Baronet mir erzählt hatte, dass er seine alte Garderobe Barrymore geschenkt hatte. Barrymore hatte sie weitergegeben, um Selden bei seiner Flucht zu helfen. Stiefel, Hemd, Mütze – alles stammte von Sir Henry. Die Tragödie war noch immer schwarz genug, doch dieser Mann hatte nach den Gesetzen seines Landes wenigstens den Tod verdient. Ich erklärte Holmes, wie die Dinge standen, und mein Herz <abbr title="überfließen (floss über, ist übergeflossen) — переполняться">floss über</abbr> vor Dankbarkeit und Freude.

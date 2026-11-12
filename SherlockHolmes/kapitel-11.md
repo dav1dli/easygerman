@@ -104,6 +104,10 @@ Im Haus sind alle Lampen <abbr title="aus sein — быть выключенны
 
 Ferrier trägt den Sack mit dem Gold und den Scheinen. Jefferson Hope trägt das bisschen Essen und das Wasser. Lucy hat ein kleines Bündel mit ein paar Sachen, die ihr besonders lieb sind. Sie öffnen das Fenster ganz langsam und vorsichtig. Sie warten, bis eine dunkle Wolke die Nacht ein bisschen dunkler macht. Dann steigen sie einer nach dem anderen in den kleinen Garten hinaus. Sie halten den Atem an und gehen tief <abbr title="gebückt — согнувшись">gebückt</abbr>. Sie <abbr title="stolpern — спотыкаться">stolpern</abbr> durch den Garten bis zur Hecke. An der Hecke gehen sie entlang bis zu einer Lücke. Dort beginnt das Kornfeld. Gerade sind sie da – da packt der junge Mann seine beiden Begleiter und zieht sie in den Schatten hinunter. Dort liegen sie still und zittern.
 
+![Richard Gutschmidt: Die Flüchtenden erreichen die Berge zu Pferd](https://commons.wikimedia.org/wiki/Special:FilePath/SH_STUDY-20.png?width=600)
+
+*Richard Gutschmidt, Illustration zu «Eine Studie in Scharlachrot» ([gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:SH_STUDY-20.png)).*
+
 Zum Glück hat Jefferson Hope auf der Prärie Ohren wie ein <abbr title="der Luchs, die Luchse — рысь">Luchs</abbr> bekommen. Kaum liegen sie auf dem Boden, da hören sie ganz nah den traurigen Ruf von einer <abbr title="die Bergeule, die Bergeulen — горная сова">Bergeule</abbr>. Sofort antwortet ein anderer Ruf, nicht weit weg. Im selben Moment kommt eine dunkle <abbr title="die Gestalt, die Gestalten — фигура">Gestalt</abbr> aus der Lücke, zu der sie wollten. Sie ruft noch einmal das klagende Signal. Da kommt ein zweiter Mann aus der Dunkelheit.
 
 — Morgen um Mitternacht, — sagt der erste. Er ist offenbar der Chef. — Wenn der <abbr title="der Ziegenmelker, die Ziegenmelker — козодой (птица)">Ziegenmelker</abbr> dreimal ruft.

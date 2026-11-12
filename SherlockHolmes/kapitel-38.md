@@ -48,6 +48,10 @@ Während er sprach, öffnete sich die Tür, und eine junge Dame kam herein. Sie 
 
 — Bitte setzen Sie sich, Miss Hunter. Ich helfe Ihnen gern, so gut ich kann.
 
+![Sidney Paget: Holmes empfängt Violet Hunter](https://commons.wikimedia.org/wiki/Special:FilePath/Sidney_Paget_-_The_Adventure_of_the_Copper_Beeches_01.jpg?width=700)
+
+*Sidney Paget, «I Am So Delighted That You Have Come», Illustration zu «The Copper Beeches» (1892; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Sidney_Paget_-_The_Adventure_of_the_Copper_Beeches_01.jpg)).*
+
 Ich sah, dass das <abbr title="das Auftreten — манера держаться">Auftreten</abbr> und die Sprache seiner neuen Klientin Holmes beeindruckt hatten. Er musterte sie mit seinem prüfenden Blick. Dann setzte er sich bequem hin, mit gesenkten Lidern und <abbr title="aneinanderlegen — складывать вместе">aneinandergelegten</abbr> Fingerspitzen, um ihre Geschichte zu hören.
 
 — Ich war fünf Jahre Gouvernante in der Familie von Oberst Spence Munro, — sagte sie. — Aber vor zwei Monaten bekam der Oberst einen Posten in Halifax in Neuschottland und nahm seine Kinder mit nach Amerika. So war ich plötzlich ohne Stelle. Ich habe <abbr title="das Inserat, die Inserate — объявление (в газете)">Inserate</abbr> aufgegeben und auf Inserate geantwortet, aber ohne Erfolg. Schließlich ging mein bisschen <abbr title="das Ersparte — сбережения">Erspartes</abbr> zu Ende, und ich wusste nicht mehr, was ich tun sollte.

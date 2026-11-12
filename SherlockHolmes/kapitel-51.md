@@ -1,5 +1,9 @@
 ## Kapitel 2: Der Fluch der Baskervilles
 
+![Sidney Paget: Die Maid liegt tot im Moor neben dem Baskerville-Hund](https://commons.wikimedia.org/wiki/Special:FilePath/Houn-05_-_Hound_of_Baskervilles,_page_24.jpg?width=700)
+
+*Sidney Paget, «There in the Centre Lay the Unhappy Maid Where She Had Fallen», Illustration zu «The Hound of the Baskervilles» (1901; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Houn-05_-_Hound_of_Baskervilles,_page_24.jpg)).*
+
 — Ich habe ein Manuskript in der Tasche, — sagte Dr. James Mortimer.
 
 — Das habe ich bemerkt, als Sie ins Zimmer traten, — sagte Holmes.

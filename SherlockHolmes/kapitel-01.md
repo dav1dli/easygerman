@@ -84,6 +84,10 @@ Sein Gesicht <abbr title="strahlen — сиять">strahlt</abbr>. So <abbr titl
 
 — Dr. Watson – Mr. Sherlock Holmes, — sagt Stamford und stellt uns vor.
 
+![Richard Gutschmidt: Holmes, Stamford und Watson im Labor](https://commons.wikimedia.org/wiki/Special:FilePath/SH_STUDY-02.png?width=600)
+
+*Richard Gutschmidt, Illustration zu «Eine Studie in Scharlachrot» ([gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:SH_STUDY-02.png)).*
+
 — Guten Tag, — sagt Holmes <abbr title="herzlich — сердечно">herzlich</abbr>. Er <abbr title="drücken — жать, пожимать">drückt</abbr> meine Hand so fest, wie ich es nie von ihm erwartet habe. — Sie waren in Afghanistan, wie ich sehe.
 
 — Wie um Himmels willen wissen Sie das? — frage ich <abbr title="verblüfft — ошеломлённый">verblüfft</abbr>.

@@ -52,6 +52,10 @@ Der junge Jefferson Hope reitet mit seinen Gefährten weiter. Er ist finster und
 
 Noch am selben Abend besucht er John Ferrier. Danach kommt er immer wieder, bis alle auf dem Hof sein Gesicht kennen. John lebt seit zwölf Jahren in diesem Tal und denkt nur an seine Arbeit. Er hat kaum Nachrichten von draußen gehört. Jefferson Hope kann ihm alles erzählen. Und er erzählt so gut, dass auch Lucy gern zuhört. Er war einer von den ersten Siedlern in Kalifornien. Er kennt viele seltsame Geschichten aus dieser wilden, glücklichen Zeit: Geschichten von Leuten, die reich geworden sind, und von Leuten, die alles verloren haben. Er war auch Kundschafter, <abbr title="der Fallensteller, die Fallensteller — охотник-трапер">Fallensteller</abbr>, Silbersucher und <abbr title="der Rancher, die Rancher — владелец ранчо">Rancher</abbr>. Wo es spannende Abenteuer gibt, da war Jefferson Hope. Der alte Bauer hat ihn bald sehr gern und lobt ihn begeistert. Lucy sagt dann nichts. Aber ihre roten Wangen und ihre hellen, glücklichen Augen zeigen nur zu deutlich: Ihr junges Herz gehört nicht mehr ihr selbst. Ihr ehrlicher Vater sieht diese Zeichen vielleicht nicht. Aber der Mann, der ihr Herz gewonnen hat, sieht sie ganz sicher.
 
+![Richard Gutschmidt: Lucy Ferrier und Jefferson Hope](https://commons.wikimedia.org/wiki/Special:FilePath/SH_STUDY-17.png?width=600)
+
+*Richard Gutschmidt, Illustration zu «Eine Studie in Scharlachrot» ([gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:SH_STUDY-17.png)).*
+
 An einem Sommerabend kommt er die Straße heruntergaloppiert und hält am <abbr title="das Tor, die Tore — ворота">Tor</abbr>. Lucy steht an der Tür und kommt ihm entgegen. Er wirft den Zügel über den <abbr title="der Zaun, die Zäune — забор">Zaun</abbr> und geht mit großen Schritten den Weg hinauf.
 
 — Ich gehe fort, Lucy, — sagt er. Er nimmt ihre beiden Hände und sieht ihr <abbr title="zärtlich — нежно">zärtlich</abbr> ins Gesicht. — Ich frage dich nicht, ob du jetzt mitkommst. Aber kommst du mit, wenn ich wieder hier bin?

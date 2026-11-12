@@ -96,6 +96,10 @@ Die Auffahrt öffnete sich zu einer weiten <abbr title="die Rasenfläche, die Ra
 
 — Willkommen, Sir Henry! Willkommen in Baskerville Hall!
 
+![Sidney Paget: Sir Henry wird in Baskerville Hall begrüßt](https://commons.wikimedia.org/wiki/Special:FilePath/Houn-21_-_Hound_of_Baskervilles,_page_118.jpg?width=700)
+
+*Sidney Paget, «Welcome, Sir Henry!», Illustration zu «The Hound of the Baskervilles» (1901; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Houn-21_-_Hound_of_Baskervilles,_page_118.jpg)).*
+
 Ein großer Mann war aus dem Schatten des Portals getreten, um den Schlag des Kremsers zu öffnen. Die Gestalt einer Frau <abbr title="sich abzeichnen gegen + Akk. — вырисовываться на фоне">zeichnete sich</abbr> gegen das gelbe Licht der Halle ab. Sie kam heraus und half dem Mann, unsere Taschen herunterzureichen.
 
 — Sie haben doch nichts dagegen, wenn ich gleich nach Hause fahre, Sir Henry? — sagte Dr. Mortimer. — Meine Frau erwartet mich.

@@ -422,6 +422,10 @@ Plötzlich warf sich Ryder auf den Teppich und <abbr title="umklammern — об�
 
 — Um Gottes willen, haben Sie <abbr title="das Erbarmen — милосердие, жалость">Erbarmen</abbr>! — kreischte er. — Denken Sie an meinen Vater! An meine Mutter! Es würde ihnen das Herz brechen. Ich habe noch nie etwas Böses getan! Ich tue es auch nie wieder. Ich schwöre es. Ich schwöre es auf die Bibel. Oh, bringen Sie es nicht vor Gericht! Um Christi willen, nicht!
 
+![Sidney Paget: Ryder fleht um Gnade wegen des blauen Karfunkels](https://commons.wikimedia.org/wiki/Special:FilePath/Sidney_Paget_-_The_Adventure_of_the_Blue_Carbunkle_01.jpg?width=700)
+
+*Sidney Paget, «Have Mercy! He Shrieked», Illustration zu «The Adventure of the Blue Carbuncle» (1892; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Sidney_Paget_-_The_Adventure_of_the_Blue_Carbunkle_01.jpg)).*
+
 — Zurück auf Ihren Stuhl! — sagte Holmes streng. — Jetzt kriechen Sie auf dem Boden. Aber an den armen Horner, der auf der <abbr title="die Anklagebank, die Anklagebänke — скамья подсудимых">Anklagebank</abbr> sitzt, haben Sie kaum gedacht. Er sitzt dort für ein Verbrechen, von dem er nichts weiß.
 
 — Ich werde fliehen, Mr. Holmes. Ich verlasse das Land, Sir. Dann bricht die Anklage gegen ihn zusammen.

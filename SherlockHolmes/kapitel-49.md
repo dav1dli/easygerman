@@ -282,6 +282,10 @@ Ihr sehr aufrichtig ergebener
 
 Sherlock Holmes»
 
+![Sidney Paget: Holmes und Moriarty im Kampf an den Reichenbachfällen](https://commons.wikimedia.org/wiki/Special:FilePath/Sherlock_Holmes_and_Professor_Moriarty_at_the_Reichenbach_Falls_-_Sidney_Paget.jpg?width=700)
+
+*Sidney Paget, «The Death of Sherlock Holmes», Illustration zu «The Final Problem» (1893; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Sherlock_Holmes_and_Professor_Moriarty_at_the_Reichenbach_Falls_-_Sidney_Paget.jpg)).*
+
 Ein paar Worte genügen für das Wenige, das noch bleibt. Nach der Untersuchung durch <abbr title="der Sachverständige, die Sachverständigen — эксперт">Sachverständige</abbr> gibt es kaum einen Zweifel: Der Kampf zwischen den beiden Männern endete, wie er in so einer Lage kaum anders enden konnte – sie taumelten <abbr title="ineinander verkrallt — сцепившись друг с другом">ineinander verkrallt</abbr> über den Rand. Jeder Versuch, die Leichen zu bergen, war völlig hoffnungslos. Und dort, tief unten in diesem furchtbaren Kessel aus wirbelndem Wasser und kochendem Schaum, werden für alle Zeit der gefährlichste Verbrecher und der beste Kämpfer für das Gesetz ihrer Generation liegen. Den Schweizer Jungen hat man nie wiedergefunden. Ohne Zweifel war er einer der vielen Handlanger, die Moriarty für sich arbeiten ließ. Was die Bande betrifft: Die Öffentlichkeit erinnert sich, wie vollständig die Beweise, die Holmes gesammelt hatte, ihre Organisation aufdeckten. Und wie schwer die Hand des toten Mannes auf ihnen lag. Über ihren schrecklichen Anführer kamen im Prozess nur wenige Einzelheiten ans Licht. Wenn ich jetzt gezwungen war, sein Leben klar darzustellen, dann ist das die Schuld jener <abbr title="unbesonnen — неосмотрительный, опрометчивый">unbesonnenen</abbr> Verteidiger. Sie haben versucht, sein Andenken reinzuwaschen, indem sie den Mann angriffen, den ich immer für den besten und weisesten Menschen halten werde, den ich je gekannt habe.
 
 ---

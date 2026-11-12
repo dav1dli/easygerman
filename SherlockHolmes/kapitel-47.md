@@ -60,6 +60,10 @@ Mycroft Holmes war viel größer und kräftiger als Sherlock. Sein Körper war r
 
 — Ja, es war Adams.
 
+![Sidney Paget: Mycroft Holmes im Diogenes-Club](https://commons.wikimedia.org/wiki/Special:FilePath/The_Greek_Interpreter_01,_The_Strand_Magazine,_Vol_6.png?width=700)
+
+*Sidney Paget, Illustration zu «The Greek Interpreter» (1893; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:The_Greek_Interpreter_01,_The_Strand_Magazine,_Vol_6.png)).*
+
 — Ich war mir von Anfang an sicher. — Die beiden setzten sich zusammen in das Erkerfenster des Clubs. — Wer die Menschen studieren will, für den ist das hier der richtige Platz, — sagte Mycroft. — Sieh dir diese prächtigen <abbr title="der Typ, die Typen — тип">Typen</abbr> an! Zum Beispiel diese zwei Männer, die auf uns zukommen.
 
 — Der <abbr title="der Billardmarkör, die Billardmarköre — маркёр (в бильярдной)">Billardmarkör</abbr> und der andere?

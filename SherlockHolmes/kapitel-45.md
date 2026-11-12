@@ -220,6 +220,10 @@ Doch wenn man alt wird, bekommt man <abbr title="das Heimweh — тоска по
 
 — Ihre Geschichte ist sehr interessant, – sagte Sherlock Holmes. – Von Ihrem Treffen mit Mrs. Barclay und wie Sie sich gegenseitig erkannt haben, habe ich schon gehört. Dann sind Sie ihr, wie ich verstehe, nach Hause gefolgt. Durch das Fenster sahen Sie einen Streit zwischen ihr und ihrem Mann, bei dem sie ihm ohne Zweifel <abbr title="vorhalten (hielt vor, hat vorgehalten) — упрекать, ставить в вину">vorhielt</abbr>, was er Ihnen angetan hatte. Ihre eigenen Gefühle überwältigten Sie, und Sie liefen über den Rasen und platzten zu ihnen herein.
 
+![Sidney Paget: Henry Wood trifft Mrs. Barclay wieder](https://commons.wikimedia.org/wiki/Special:FilePath/The_Crooked_Man_02,_The_Strand_Magazine,_Vol_6.png?width=700)
+
+*Sidney Paget, Illustration zu «The Crooked Man» (1893; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:The_Crooked_Man_02,_The_Strand_Magazine,_Vol_6.png)).*
+
 — Das tat ich, Sir. Und als er mich sah, schaute er, wie ich noch nie einen Menschen habe schauen sehen. Er fiel um, mit dem Kopf auf das Kamingitter. Aber er war schon tot, bevor er fiel. Ich las den Tod in seinem Gesicht so deutlich, wie ich den <abbr title="der Bibelspruch, die Bibelsprüche — библейское изречение">Bibelspruch</abbr> da über dem Feuer lesen kann. Schon mein bloßer Anblick war wie eine Kugel durch sein schuldiges Herz.
 
 — Und dann?

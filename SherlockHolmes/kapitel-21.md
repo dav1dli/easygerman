@@ -44,6 +44,10 @@ Holmes steht mit den Händen in den Taschen vor der Haustür und raucht seine Pf
 
 Wir binden Toby am Tisch im Flur fest und steigen wieder die Treppe hinauf. Das Zimmer ist so, wie wir es verlassen haben. Nur liegt jetzt ein Laken über der Gestalt in der Mitte. In der Ecke <abbr title="sich lümmeln — развалиться">lümmelt</abbr> sich ein müder Polizeisergeant.
 
+![F. H. Townsend: Holmes untersucht den Tatort in Pondicherry Lodge](https://commons.wikimedia.org/wiki/Special:FilePath/Sign-t2.jpg?width=600)
+
+*F. H. Townsend, Illustration zu «The Sign of Four» (1903; [gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:Sign-t2.jpg)).*
+
 — Leihen Sie mir Ihre <abbr title="die Blendlaterne, die Blendlaternen — потайной фонарь">Blendlaterne</abbr>, Sergeant, — sagt mein Freund. — Jetzt binden Sie mir dieses Stück Schnur um den Hals. So hängt sie vor meiner Brust. Danke. Jetzt muss ich Schuhe und <abbr title="der Strumpf, die Strümpfe — чулок, носок">Strümpfe</abbr> ausziehen. Nehmen Sie sie mit hinunter, Watson. Ich will ein bisschen klettern. Und tauchen Sie mein <abbr title="das Taschentuch, die Taschentücher — носовой платок">Taschentuch</abbr> ins Kreosot. So ist es gut. Und jetzt kommen Sie kurz mit mir in die Dachkammer.
 
 Wir klettern durch das Loch hinauf. Holmes richtet sein Licht wieder auf die Fußspuren im Staub.

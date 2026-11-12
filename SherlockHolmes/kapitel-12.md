@@ -30,6 +30,10 @@ Aber wieder schüttelt sein <abbr title="aktiv — деятельный">aktiver
 
 Fünf Tage <abbr title="sich schleppen — тащиться, плестись">schleppt er sich</abbr> mit wunden Füßen durch die Schluchten, durch die er vorher geritten ist. Nachts wirft er sich zwischen die Felsen und schläft ein paar Stunden. Aber vor dem Morgengrauen ist er immer schon wieder unterwegs. Am sechsten Tag kommt er in die Adlerschlucht. Dort hat ihre <abbr title="unglücklich — злополучный, несчастный">unglückliche</abbr> Flucht begonnen. Von hier kann er auf die Stadt von den Heiligen hinuntersehen. Er ist erschöpft. Er stützt sich auf sein Gewehr und <abbr title="drohen — грозить">droht</abbr> der stillen, weiten Stadt unter ihm wütend mit seiner mageren Faust. Da sieht er: In einigen großen Straßen hängen <abbr title="die Fahne, die Fahnen — флаг">Fahnen</abbr>, und es gibt noch andere Zeichen von einem Fest. Er überlegt noch, was das bedeutet. Da hört er Hufe. Ein Reiter kommt auf ihn zu. Als er näher ist, erkennt Hope ihn. Es ist ein Mormone mit dem Namen Cowper. Hope hat ihm früher ein paarmal geholfen. Deshalb spricht er ihn an. Er will wissen, was mit Lucy Ferrier passiert ist.
 
+![Richard Gutschmidt: Jefferson Hope kehrt in die Berge zurück](https://commons.wikimedia.org/wiki/Special:FilePath/SH_STUDY-21.png?width=600)
+
+*Richard Gutschmidt, Illustration zu «Eine Studie in Scharlachrot» ([gemeinfreier Scan](https://commons.wikimedia.org/wiki/File:SH_STUDY-21.png)).*
+
 — Ich bin Jefferson Hope, — sagt er. — Du kennst mich doch.
 
 Der Mormone sieht ihn ganz offen erstaunt an. Wirklich, man erkennt ihn kaum. Dieser zerlumpte, <abbr title="ungepflegt — неухоженный">ungepflegte</abbr> Wanderer mit dem totenbleichen Gesicht und den wilden Augen – das soll der schmucke junge Jäger von früher sein? Endlich ist Cowper sicher, wer er ist. Da wird aus seinem Erstaunen <abbr title="die Bestürzung — смятение, испуг">Bestürzung</abbr>.
