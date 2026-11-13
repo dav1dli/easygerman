@@ -1,14 +1,10 @@
 # Der Hobbit: Hin und zurück
 
-Persönliche deutsche Lernfassung. Aktuelle Quelle: J. R. R. Tolkien, The Hobbit (englische FB2).
-Kapitel 1–7: bisherige Lernfassung nach dem russischen Text; noch keine vollständige Neuübersetzung aus dem Englischen.
-Russische Vorlage: Übersetzungen von К. Королев und В. Тихомиров (2001).
+Persönliche deutsche Lernfassung. Aktuelle Quelle: J. R. R. Tolkien, The Hobbit (englische Ebook).
 Bilder: aus der englischen Quelldatei, an den entsprechenden Textstellen.
 
-**Alle 19 Kapitel sind als persönliche Lernfassung vollständig vorhanden.**
-
-Neue und schwierige Wörter haben russische Hover-Erklärungen und stehen am Kapitelende.
-Dort stehen auch schwierige Sätze mit russischer Übersetzung und Erklärung.
+Neue und schwierige Wörter haben Hover-Erklärungen und stehen am Kapitelende.
+Dort stehen auch schwierige Sätze mit Übersetzung und Erklärung.
 Tooltips benötigen einen Markdown-Reader, der HTML-`abbr` mit `title` zulässt.
 
 Wortbudget: höchstens sechs neu eingeführte Lemmata je 300 laufende Wörter; angenommener A2-Grundwortschatz.
@@ -37,27 +33,3 @@ Das prüft markierte Einführungen, nicht den persönlichen Wortschatz oder die 
 - [Kapitel 19: Die letzte Etappe](kapitel-19.md) — B2
 
 [Wörterbuch](woerterbuch.md) · [Originalnamen und Zuordnung](../GLOSSAR.md) · [Alle Abbildungen](abbildungen.md)
-
-## Bilder aus dem Vorspann
-
-Umschlag und Runendiagramme stehen im Vorspann der englischen Quelle. Die Einleitungen und Anmerkungen werden nicht übersetzt.
-
-![Umschlag](img/cover.jpg)
-
-![Runendiagramm aus dem Vorspann](img/i_001.jpg)
-
-![Runendiagramm aus dem Vorspann](img/i_002.jpg)
-
-![Runendiagramm aus dem Vorspann](img/i_003.jpg)
-
-![Runendiagramm aus dem Vorspann](img/i_004.jpg)
-
-![Runendiagramm aus dem Vorspann](img/i_005.jpg)
-
-![Runendiagramm aus dem Vorspann](img/i_006.jpg)
-
-![Runendiagramm aus dem Vorspann](img/i_007.jpg)
-
-![Runendiagramm aus dem Vorspann](img/i_008.jpg)
-
-![Runendiagramm aus dem Vorspann](img/i_009.jpg)
